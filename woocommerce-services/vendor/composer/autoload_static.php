@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitf5b85025fcb8982ee2233f84840242f1
+class ComposerStaticInit243ee9c8fb8822c81085a2a33c1f4ba6
 {
     public static $prefixLengthsPsr4 = array (
         'A' => 
@@ -58,6 +58,8 @@ class ComposerStaticInitf5b85025fcb8982ee2233f84840242f1
         'Automattic\\Jetpack\\Files' => __DIR__ . '/..' . '/automattic/jetpack-status/src/class-files.php',
         'Automattic\\Jetpack\\Heartbeat' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/class-heartbeat.php',
         'Automattic\\Jetpack\\Modules' => __DIR__ . '/..' . '/automattic/jetpack-status/src/class-modules.php',
+        'Automattic\\Jetpack\\Partner' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/class-partner.php',
+        'Automattic\\Jetpack\\Partner_Coupon' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/class-partner-coupon.php',
         'Automattic\\Jetpack\\Paths' => __DIR__ . '/..' . '/automattic/jetpack-status/src/class-paths.php',
         'Automattic\\Jetpack\\Redirect' => __DIR__ . '/..' . '/automattic/jetpack-redirect/src/class-redirect.php',
         'Automattic\\Jetpack\\Roles' => __DIR__ . '/..' . '/automattic/jetpack-roles/src/class-roles.php',
@@ -80,9 +82,9 @@ class ComposerStaticInitf5b85025fcb8982ee2233f84840242f1
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitf5b85025fcb8982ee2233f84840242f1::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitf5b85025fcb8982ee2233f84840242f1::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInitf5b85025fcb8982ee2233f84840242f1::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit243ee9c8fb8822c81085a2a33c1f4ba6::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit243ee9c8fb8822c81085a2a33c1f4ba6::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit243ee9c8fb8822c81085a2a33c1f4ba6::$classMap;
 
         }, null, ClassLoader::class);
     }

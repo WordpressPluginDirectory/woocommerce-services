@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the Plugins - WooCommerce Shipping &amp; Tax - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-15 10:23:18+0000\n"
+"PO-Revision-Date: 2024-01-01 11:30:25+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
 "Language: es\n"
 "Project-Id-Version: Plugins - WooCommerce Shipping &amp; Tax - Stable (latest release)\n"
 
@@ -470,7 +470,7 @@ msgstr "WooCommerce Shipping & Tax"
 
 #: classes/class-wc-connect-nux.php:438 classes/class-wc-connect-nux.php:519
 msgid "Connect your site to activate WooCommerce Shipping & Tax"
-msgstr ""
+msgstr "Conecta tu tienda para activar WooCommerce Shipping & Tax"
 
 #: classes/class-wc-connect-nux.php:205
 msgid "WooCommerce Shipping now supports DHL labels for international shipments. Purchase and print discounted labels from DHL and USPS right here."
@@ -829,11 +829,11 @@ msgstr "No ha sido posible enviar la solicitud al servidor de WooCommerce Shippi
 
 #: classes/class-wc-connect-api-client.php:538
 msgid "Unable to send request to WooCommerce Shipping & Tax server. WordPress.com token is malformed."
-msgstr ""
+msgstr "No ha sido posible enviar la solicitud al servidor de WooCommerce Shipping & Tax. El token de WordPress.com está mal formado."
 
 #: classes/class-wc-connect-api-client.php:531
 msgid "Unable to send request to WooCommerce Shipping & Tax server. WordPress.com token is missing"
-msgstr ""
+msgstr "No ha sido posible enviar la solicitud al servidor de WooCommerce Shipping & Tax. Falta el token de WordPress.com."
 
 #. translators: %1$s: error code, %2$s: error message, %3$d: HTTP response code
 #: classes/class-wc-connect-api-client-live.php:113
@@ -1585,7 +1585,7 @@ msgstr "Ya puedes disfrutar %s."
 #. translators: %s: list of features, potentially comma separated
 #: classes/class-wc-connect-nux.php:435 classes/class-wc-connect-nux.php:514
 msgid "WooCommerce Shipping & Tax is almost ready to go! Once you connect your site to WordPress.com you'll have access to %s."
-msgstr ""
+msgstr "¡WooCommerce Shipping & Tax está casi listo! Una vez que conectes tu tienda a WordPress.com tendrás acceso a %s."
 
 #: classes/class-wc-connect-nux.php:352
 msgid "automated tax calculation"
@@ -2274,7 +2274,7 @@ msgstr "Descartar este aviso"
 
 #: classes/class-wc-connect-debug-tools.php:59
 msgid "ERROR: Your site has a problem connecting to the WooCommerce Shipping & Tax API. Please make sure your WordPress.com connection is working."
-msgstr ""
+msgstr "ERROR: Tu sitio tiene un problema al conectar con la API de WooCommerce Shipping & Tax. Por favor, aségurate de que está funcionando tu conexión con WordPress.com."
 
 #: classes/class-wc-connect-debug-tools.php:56
 msgid "Your site is successfully communicating to the WooCommerce Shipping & Tax API."

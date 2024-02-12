@@ -43,6 +43,8 @@ return array(
     'Automattic\\Jetpack\\Files' => $vendorDir . '/automattic/jetpack-status/src/class-files.php',
     'Automattic\\Jetpack\\Heartbeat' => $vendorDir . '/automattic/jetpack-connection/src/class-heartbeat.php',
     'Automattic\\Jetpack\\Modules' => $vendorDir . '/automattic/jetpack-status/src/class-modules.php',
+    'Automattic\\Jetpack\\Partner' => $vendorDir . '/automattic/jetpack-connection/src/class-partner.php',
+    'Automattic\\Jetpack\\Partner_Coupon' => $vendorDir . '/automattic/jetpack-connection/src/class-partner-coupon.php',
     'Automattic\\Jetpack\\Paths' => $vendorDir . '/automattic/jetpack-status/src/class-paths.php',
     'Automattic\\Jetpack\\Redirect' => $vendorDir . '/automattic/jetpack-redirect/src/class-redirect.php',
     'Automattic\\Jetpack\\Roles' => $vendorDir . '/automattic/jetpack-roles/src/class-roles.php',

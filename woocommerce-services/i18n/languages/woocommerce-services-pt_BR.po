@@ -2,18 +2,18 @@
 # This file is distributed under the same license as the Plugins - WooCommerce Shipping &amp; Tax - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-04-16 12:34:16+0000\n"
+"PO-Revision-Date: 2024-02-03 22:57:05+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
 "Language: pt_BR\n"
 "Project-Id-Version: Plugins - WooCommerce Shipping &amp; Tax - Stable (latest release)\n"
 
 #: i18n/strings.php:26
 msgid "WordPress.com Connection"
-msgstr ""
+msgstr "Conexão com WordPress.com"
 
 #: classes/class-wc-connect-settings-pages.php:73
 msgid "Note: WooCommerce Shipping & Tax is configured to work in offline mode. This site will not be able to obtain payment methods from WooCommerce Shipping & Tax production servers."
@@ -45,7 +45,7 @@ msgstr ""
 
 #: i18n/strings.php:370
 msgid "Select a category"
-msgstr ""
+msgstr "Selecione uma categoria"
 
 #: i18n/strings.php:368
 msgid "WooCommerce Shipping does not currently support HAZMAT shipments through {{dhlExpress/}}."

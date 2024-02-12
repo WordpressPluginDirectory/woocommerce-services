@@ -6,7 +6,7 @@ Requires at least: 6.2
 Tested up to: 6.4
 WC requires at least: 8.0
 WC tested up to: 8.3
-Stable tag: 2.4.2
+Stable tag: 2.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -77,6 +77,13 @@ The source code is freely available [in GitHub](https://github.com/Automattic/wo
 6. Checking and exporting the label purchase reports
 
 == Changelog ==
+
+= 2.5.1 - 2024-02-12 =
+* Fix - Cannot call constructor in classes/wc-api-dev/class-wc-rest-dev-data-continents-controller.php.
+
+= 2.5.0 - 2024-01-08 =
+* Add - Ability to keep connected to WordPress.com after Jetpack is uninstalled.
+* Fix - Deprecation notices for PHP 8.2.
 
 = 2.4.2 - 2023-11-30 =
 * Fix - When automated taxes are enabled, the order refund button will fail
