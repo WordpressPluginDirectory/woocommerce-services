@@ -1,15 +1,16 @@
 <?php
 /**
  * Plugin Name: WooCommerce Shipping & Tax
+ * Requires Plugins: woocommerce
  * Plugin URI: https://woocommerce.com/
  * Description: Hosted services for WooCommerce: automated tax calculation, shipping label printing, and smoother payment setup.
  * Author: WooCommerce
  * Author URI: https://woocommerce.com/
  * Text Domain: woocommerce-services
  * Domain Path: /i18n/languages/
- * Version: 2.5.3
+ * Version: 2.5.4
  * Requires at least: 6.3
- * Tested up to: 6.4
+ * Tested up to: 6.5
  * WC requires at least: 8.4
  * WC tested up to: 8.6
  *
