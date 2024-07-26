@@ -50,6 +50,48 @@ __( "%(service)s label (#%(labelIndex)d)", "woocommerce-services" ), // dist/chu
 __( "Purchasing\\u2026", "woocommerce-services" ), // dist/chunks/84c697ee7ba4aa804657.min.js:1
 _n( "%(count)s event", "%(count)s events", 1, "woocommerce-services" ), // dist/chunks/84c697ee7ba4aa804657.min.js:1
 __( "Show notes from %(date)s", "woocommerce-services" ), // dist/chunks/84c697ee7ba4aa804657.min.js:1
+__( "Required", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Optional", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Debug", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Debug", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Display troubleshooting information on the Cart and Checkout pages.", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Enabled", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Disabled", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Logging", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Write diagnostic messages to log files. Helpful when contacting support.", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Enabled", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Disabled", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Shipping Log", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Taxes Log", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Other Log", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Tax Rates", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Download Backed-up Tax Rates", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Click a file below to download it, then import it into the {{taxRatesA}}tax rates table{{/taxRatesA}}.", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Support", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Need help?", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Our team is here for you. View our {{docsA}}support docs{{/docsA}} or {{ticketA}}open a support ticket{{/ticketA}}.", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+_x( "Health", "This section displays the overall health of WooCommerce Shipping & Tax and the things it depends on", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "WooCommerce", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "WordPress.com Connection", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Automated Taxes", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Go to the Tax settings", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Go to General settings", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Automated taxes documentation", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Service data was found, but is more than three days old", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Service data was found, but is more than one day old", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Service data is up-to-date", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Service data found, but may be out of date", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "No service data available", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "WooCommerce Shipping & Tax Data", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Last updated %s.", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Refresh", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Log tail copied to clipboard", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+_n( "Last %s entry. {{a}}Show full log{{/a}}", "Last %s entries. {{a}}Show full log{{/a}}", 1, "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Copy for support", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Request was made %s - check logs below or {{a}}edit service settings{{/a}}", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Edit service settings", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "Services", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
+__( "No services configured. {{a}}Add a shipping service{{/a}}", "woocommerce-services" ), // dist/chunks/8ee13043dae86735109a.min.js:1
 __( "Required", "woocommerce-services" ), // dist/chunks/95636ad974be3121f84e.min.js:1
 __( "Optional", "woocommerce-services" ), // dist/chunks/95636ad974be3121f84e.min.js:1
 __( "Dismiss", "woocommerce-services" ), // dist/chunks/95636ad974be3121f84e.min.js:1
@@ -77,48 +119,6 @@ __( "Create shipping label", "woocommerce-services" ), // dist/chunks/9fac9e6b79
 __( "Connection error: unable to create label at this time", "woocommerce-services" ), // dist/chunks/9fac9e6b796548ec5c08.min.js:1
 _n( "%(itemCount)d item was fulfilled on {{span}}%(createdDate)s{{/span}}", "%(itemCount)d items were fulfilled on {{span}}%(createdDate)s{{/span}}", 1, "woocommerce-services" ), // dist/chunks/9fac9e6b796548ec5c08.min.js:1
 _n( "%(itemCount)d item is ready to be fulfilled", "%(itemCount)d items are ready to be fulfilled", 1, "woocommerce-services" ), // dist/chunks/9fac9e6b796548ec5c08.min.js:1
-__( "Required", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Optional", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Debug", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Debug", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Display troubleshooting information on the Cart and Checkout pages.", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Enabled", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Disabled", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Logging", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Write diagnostic messages to log files. Helpful when contacting support.", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Enabled", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Disabled", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Shipping Log", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Taxes Log", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Other Log", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Tax Rates", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Download Backed-up Tax Rates", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Click a file below to download it, then import it into the {{taxRatesA}}tax rates table{{/taxRatesA}}.", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Support", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Need help?", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Our team is here for you. View our {{docsA}}support docs{{/docsA}} or {{ticketA}}open a support ticket{{/ticketA}}.", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-_x( "Health", "This section displays the overall health of WooCommerce Shipping & Tax and the things it depends on", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "WooCommerce", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "WordPress.com Connection", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Automated Taxes", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Go to the Tax settings", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Go to General settings", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Automated taxes documentation", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Service data was found, but is more than three days old", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Service data was found, but is more than one day old", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Service data is up-to-date", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Service data found, but may be out of date", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "No service data available", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "WooCommerce Shipping & Tax Data", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Last updated %s.", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Refresh", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Log tail copied to clipboard", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-_n( "Last %s entry. {{a}}Show full log{{/a}}", "Last %s entries. {{a}}Show full log{{/a}}", 1, "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Copy for support", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Request was made %s - check logs below or {{a}}edit service settings{{/a}}", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Edit service settings", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "Services", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
-__( "No services configured. {{a}}Add a shipping service{{/a}}", "woocommerce-services" ), // dist/chunks/af8f113d74774e49047e.min.js:1
 __( "Dismiss", "woocommerce-services" ), // dist/chunks/bda4481d3c94f4c5c822.min.js:1
 __( "Dismiss", "woocommerce-services" ), // dist/chunks/bda4481d3c94f4c5c822.min.js:1
 __( "Required", "woocommerce-services" ), // dist/chunks/c50e70036acc381460af.min.js:1
@@ -464,7 +464,7 @@ __( "Address entered", "woocommerce-services" ), // dist/chunks/dd6bfcde4dc57aed
 __( "Suggested address", "woocommerce-services" ), // dist/chunks/dd6bfcde4dc57aedd275.min.js:1
 __( "Use selected address", "woocommerce-services" ), // dist/chunks/dd6bfcde4dc57aedd275.min.js:1
 __( "Edit address", "woocommerce-services" ), // dist/chunks/dd6bfcde4dc57aedd275.min.js:1
-__( "Saving\\u2026", "woocommerce-services" ), // dist/chunks/deaff949f48d14580ec7.min.js:1
-__( "Save Settings", "woocommerce-services" ), // dist/chunks/deaff949f48d14580ec7.min.js:1
+__( "Saving\\u2026", "woocommerce-services" ), // dist/chunks/dec977fe040d97ddc446.min.js:1
+__( "Save Settings", "woocommerce-services" ), // dist/chunks/dec977fe040d97ddc446.min.js:1
 );
 /* THIS IS THE END OF THE GENERATED FILE */
