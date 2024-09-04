@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce Shipping &amp; Tax - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-05 17:38:21+0000\n"
+"PO-Revision-Date: 2024-07-26 15:19:01+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,11 +23,11 @@ msgstr "Se esperaba pero no se ha recibido payment_methods en el cuerpo de la re
 msgid "Expected but did not receive object for response body."
 msgstr "Se esperaba pero no se ha recibido objeto para el cuerpo de la respuesta."
 
-#: woocommerce-services.php:1801
-msgid "Woo Shipping and Woo Tax plugins are already active. Please deactivate WooCommerce Shipping & Tax."
-msgstr "Los plugins Woo Shipping y Woo Tax ya están activos. Por favor, desactiva WooCommerce Shipping & Tax."
+#: woocommerce-services.php:1840
+msgid "WC Shipping and WC Tax plugins are already active. Please deactivate WooCommerce Shipping & Tax."
+msgstr "Los plugins WC Shipping y WC Tax ya están activos. Por favor, desactiva WooCommerce Shipping & Tax."
 
-#: i18n/strings.php:102
+#: i18n/strings.php:75
 msgid "WordPress.com Connection"
 msgstr "Conexión a WordPress.com"
 
@@ -135,15 +135,15 @@ msgctxt "%s - ZIP/Postal code checkout field label"
 msgid "%s is not formatted correctly."
 msgstr "El %s no tiene el formato correcto."
 
-#: i18n/strings.php:96
+#: i18n/strings.php:69
 msgid "Click a file below to download it, then import it into the {{taxRatesA}}tax rates table{{/taxRatesA}}."
 msgstr "Haz clic en uno de los siguientes archivos para descargarlo, después impórtalo en la {{taxRatesA}}tabla de impuestos{{/taxRatesA}}."
 
-#: i18n/strings.php:95
+#: i18n/strings.php:68
 msgid "Download Backed-up Tax Rates"
 msgstr "Descargar las tasas de impuestos guardardas."
 
-#: i18n/strings.php:94
+#: i18n/strings.php:67
 msgid "Tax Rates"
 msgstr "Tasas de impuestos"
 
@@ -215,39 +215,39 @@ msgstr "Borrar las tasas de impuestos de California"
 msgid "Enabling this option overrides any tax rates you have manually added."
 msgstr "Activando esta opción, se anula cualquier tasa de impuestos que hayas añadido manualmente."
 
-#: i18n/strings.php:106
+#: i18n/strings.php:79
 msgid "Automated taxes documentation"
 msgstr "Documentación sobre impuestos automáticos"
 
-#: i18n/strings.php:105
+#: i18n/strings.php:78
 msgid "Go to General settings"
 msgstr "Ir a los ajustes generales"
 
-#: i18n/strings.php:104
+#: i18n/strings.php:77
 msgid "Go to the Tax settings"
 msgstr "Ir a los ajustes de impuestos"
 
-#: i18n/strings.php:103
+#: i18n/strings.php:76
 msgid "Automated Taxes"
 msgstr "Impuestos automáticos"
 
-#: classes/class-wc-connect-help-view.php:345
+#: classes/class-wc-connect-help-view.php:351
 msgid "Automated taxes are enabled"
 msgstr "Los impuestos automáticos están activos"
 
-#: classes/class-wc-connect-help-view.php:338
+#: classes/class-wc-connect-help-view.php:344
 msgid "The automated taxes functionality is disabled. Enable the \"Automated taxes\" setting on the WooCommerce settings page"
 msgstr "La funcionalidad de impuestos automáticos está desactivada. Activa el ajuste de «Impuestos automáticos» en la página de ajustes de WooCommerce"
 
-#: classes/class-wc-connect-help-view.php:330
+#: classes/class-wc-connect-help-view.php:336
 msgid "The core WooCommerce taxes functionality is disabled. Please ensure the \"Enable tax rates and calculations\" setting is turned \"on\" in the WooCommerce settings page"
 msgstr "La funcionalidad de impuestos del núcleo de WooCommerce está desactivada. Por favor, asegúrate de que el ajuste de «Activar las tasas de impuestos y sus cálculos» esté «activado» en la página de ajustes de WooCommerce"
 
-#: classes/class-wc-connect-help-view.php:322
+#: classes/class-wc-connect-help-view.php:328
 msgid "TaxJar extension detected. Automated taxes functionality is disabled"
 msgstr "Extensión TaxJar detectada. La funcionalidad de impuestos automáticos está desactivada"
 
-#: classes/class-wc-connect-help-view.php:314
+#: classes/class-wc-connect-help-view.php:320
 msgid "Your store's country (%s) is not supported. Automated taxes functionality is disabled"
 msgstr "No es compatible con el país de tu tienda (%s). La funcionalidad de impuestos automáticos está desactivada "
 
@@ -291,7 +291,7 @@ msgstr "Muestra las tarifas en vivo directamente en tu tienda - nunca vuelvas a 
 msgid "Live rates at checkout"
 msgstr "Tarifas en vivo al finalizar la compra"
 
-#: i18n/strings.php:113
+#: i18n/strings.php:86
 msgid "Last updated %s."
 msgstr "Última actualización %s."
 
@@ -463,7 +463,7 @@ msgstr "%(carrierName)s no es compatible."
 msgid "Loading"
 msgstr "Cargando"
 
-#: i18n/strings.php:112
+#: i18n/strings.php:85
 msgid "WooCommerce Shipping & Tax Data"
 msgstr "WooCommerce Shipping & Tax Data"
 
@@ -475,11 +475,11 @@ msgstr "Imprimir impreso de aduanas"
 msgid "Test your WooCommerce Shipping & Tax connection"
 msgstr "Prueba tu conexión a WooCommerce Shipping & Tax"
 
-#: classes/class-wc-connect-help-view.php:283
+#: classes/class-wc-connect-help-view.php:288
 msgid "WooCommerce Shipping & Tax Status"
 msgstr "Estado de WooCommerce Shipping & Tax"
 
-#: classes/class-wc-connect-help-view.php:253
+#: classes/class-wc-connect-help-view.php:257
 msgctxt "The WooCommerce Shipping & Tax brandname"
 msgid "WooCommerce Shipping & Tax"
 msgstr "WooCommerce Shipping & Tax"
@@ -511,7 +511,7 @@ msgstr "Slug de servicio de WooCommerce Shipping & Tax no válido proporcionado"
 
 #. Plugin Name of the plugin
 #: woocommerce-services.php classes/class-wc-connect-privacy.php:36
-#: classes/class-wc-connect-settings-pages.php:137 woocommerce-services.php:585
+#: classes/class-wc-connect-settings-pages.php:137 woocommerce-services.php:592
 msgid "WooCommerce Shipping & Tax"
 msgstr "WooCommerce Shipping & Tax"
 
@@ -660,13 +660,13 @@ msgstr "Paquete %(index)s \\u2013 %(title)s"
 msgid "Saving\\u2026"
 msgstr "Guardando\\u2026"
 
-#: i18n/strings.php:79
+#: i18n/strings.php:121
 msgid "%(itemCount)d item is ready to be fulfilled"
 msgid_plural "%(itemCount)d items are ready to be fulfilled"
 msgstr[0] "%(itemCount)d elemento está listo para completar"
 msgstr[1] "%(itemCount)d elementos están listos para completar"
 
-#: i18n/strings.php:78
+#: i18n/strings.php:120
 msgid "%(itemCount)d item was fulfilled on {{span}}%(createdDate)s{{/span}}"
 msgid_plural "%(itemCount)d items were fulfilled on {{span}}%(createdDate)s{{/span}}"
 msgstr[0] "%(itemCount)d elemento se completó el {{span}}%(createdDate)s{{/span}}"
@@ -697,7 +697,7 @@ msgid "You save %s with WooCommerce Shipping"
 msgstr "Ahorras %s con WooCommerce Shipping"
 
 #. translators: %s WC download URL link.
-#: woocommerce-services.php:614
+#: woocommerce-services.php:624
 msgid "WooCommerce Shipping & Tax requires the WooCommerce plugin to be installed and active. You can download %s here."
 msgstr "WooCommerce Shipping & Tax necesita que esté instalado y activado el plugin WooCommerce. Puedes descargarlo aquí: %s."
 
@@ -705,17 +705,17 @@ msgstr "WooCommerce Shipping & Tax necesita que esté instalado y activado el pl
 msgid "No tracking information available at this time"
 msgstr "En este momento no hay disponible información de seguimiento"
 
-#: i18n/strings.php:77
+#: i18n/strings.php:119
 msgid "Connection error: unable to create label at this time"
 msgstr "Error de conexión: en este momento no se puede crear la etiqueta"
 
-#: i18n/strings.php:73 i18n/strings.php:75
+#: i18n/strings.php:115 i18n/strings.php:117
 msgid "Track Package"
 msgid_plural "Track Packages"
 msgstr[0] "Seguimiento de paquete"
 msgstr[1] "Seguimiento de paquetes"
 
-#: i18n/strings.php:71
+#: i18n/strings.php:113
 msgid "Which package would you like to track?"
 msgstr "¿Qué paquete te gustaría seguir?"
 
@@ -807,7 +807,7 @@ msgstr "Han sido guardados tus paquetes de envío."
 msgid "0.0"
 msgstr "0.0"
 
-#: woocommerce-services.php:1552
+#: woocommerce-services.php:1583
 msgid "Shipment Tracking"
 msgstr "Seguimiento de envíos"
 
@@ -815,23 +815,23 @@ msgstr "Seguimiento de envíos"
 msgid "Customs information valid"
 msgstr "Información de aduanas válida"
 
-#: woocommerce-services.php:1596
+#: woocommerce-services.php:1627
 msgid "Packing Log:"
 msgstr "Registro de paquetería:"
 
-#: woocommerce-services.php:1583
+#: woocommerce-services.php:1614
 msgid "Chosen Rate:"
 msgstr "Tarifa elegida:"
 
-#: woocommerce-services.php:1579
+#: woocommerce-services.php:1610
 msgid "Shipping Method ID:"
 msgstr "ID del método de envío:"
 
-#: woocommerce-services.php:1575
+#: woocommerce-services.php:1606
 msgid "Shipping Method Name:"
 msgstr "Nombre del método de envío:"
 
-#: woocommerce-services.php:1559
+#: woocommerce-services.php:1590
 msgid "Shipping Debug"
 msgstr "Depuración de envíos"
 
@@ -1207,41 +1207,41 @@ msgstr "Alternar menú"
 msgid "Return to Order #%(orderId)s"
 msgstr "Volver al pedido #%(orderId)s"
 
-#: i18n/strings.php:99
+#: i18n/strings.php:72
 msgid "Our team is here for you. View our {{docsA}}support docs{{/docsA}} or {{ticketA}}open a support ticket{{/ticketA}}."
 msgstr "Nuestro equipo está aquí para ti. Ve nuestros {{docsA}}documentos de soporte{{/docsA}} o {{ticketA}}abre un ticket de soporte{{/ticketA}}."
 
-#: i18n/strings.php:87
+#: i18n/strings.php:60
 msgid "Logging"
 msgstr "Registro"
 
-#: i18n/strings.php:121
+#: i18n/strings.php:94
 msgid "No services configured. {{a}}Add a shipping service{{/a}}"
 msgstr "No hay configurado ningún servicio. {{a}}Añade un servicio de envío{{/a}}"
 
-#: i18n/strings.php:119
+#: i18n/strings.php:92
 msgid "Edit service settings"
 msgstr "Editar ajustes del servicio"
 
-#: i18n/strings.php:118
+#: i18n/strings.php:91
 msgid "Request was made %s - check logs below or {{a}}edit service settings{{/a}}"
 msgstr "La solicitud la hizo %s - revisa los registros abajo o {{a}}edita los ajustes del servicio{{/a}}"
 
-#: i18n/strings.php:117
+#: i18n/strings.php:90
 msgid "Copy for support"
 msgstr "Copiar para soporte"
 
-#: i18n/strings.php:116
+#: i18n/strings.php:89
 msgid "Last %s entry. {{a}}Show full log{{/a}}"
 msgid_plural "Last %s entries. {{a}}Show full log{{/a}}"
 msgstr[0] "Última %s entrada. {{a}}Mostrar registro completo{{/a}}"
 msgstr[1] "Últimas %s entradas. {{a}}Mostrar registro completo{{/a}}"
 
-#: i18n/strings.php:115
+#: i18n/strings.php:88
 msgid "Log tail copied to clipboard"
 msgstr "Cola del registro copiada al portapapeles"
 
-#: i18n/strings.php:59 i18n/strings.php:133
+#: i18n/strings.php:101 i18n/strings.php:133
 msgid "You have unsaved changes. Are you sure you want to leave this page?"
 msgstr "Tienes cambios sin guardar. ¿Estás seguro de querer abandonar esta página?"
 
@@ -1269,7 +1269,7 @@ msgstr "País de origen"
 msgid "USPS"
 msgstr "USPS"
 
-#: i18n/strings.php:54 i18n/strings.php:81 i18n/strings.php:125
+#: i18n/strings.php:54 i18n/strings.php:96 i18n/strings.php:125
 #: i18n/strings.php:398
 msgid "Optional"
 msgstr "Opcional"
@@ -1465,23 +1465,23 @@ msgstr "Año"
 msgid "Export CSV"
 msgstr "Exportar CSV"
 
-#: i18n/strings.php:93
+#: i18n/strings.php:66
 msgid "Other Log"
 msgstr "Otros registros"
 
-#: i18n/strings.php:92
+#: i18n/strings.php:65
 msgid "Taxes Log"
 msgstr "Registro de impuestos"
 
-#: i18n/strings.php:91
+#: i18n/strings.php:64
 msgid "Shipping Log"
 msgstr "Registro de envíos"
 
-#: i18n/strings.php:84
+#: i18n/strings.php:57
 msgid "Display troubleshooting information on the Cart and Checkout pages."
 msgstr "Muestra información para resolución de problemas en las páginas de carrito y finalizar compra."
 
-#: i18n/strings.php:88
+#: i18n/strings.php:61
 msgid "Write diagnostic messages to log files. Helpful when contacting support."
 msgstr "Escribe mensajes de diagnóstico en los archivos de registro. Útil al contactar con soporte."
 
@@ -1525,15 +1525,15 @@ msgstr "Para enviar reembolsos a través de PayPal Exprés tendrás que <a href=
 msgid "Link a PayPal account"
 msgstr "Enlaza a una cuenta PayPal"
 
-#: i18n/strings.php:114
+#: i18n/strings.php:87
 msgid "Refresh"
 msgstr "Recargar"
 
-#: woocommerce-services.php:1332
+#: woocommerce-services.php:1363
 msgid "Tracking number"
 msgstr "Número de seguimiento"
 
-#: woocommerce-services.php:1331
+#: woocommerce-services.php:1362
 msgid "Provider"
 msgstr "Proveedor"
 
@@ -1617,7 +1617,7 @@ msgid "automated tax calculation and smoother payment setup"
 msgstr "cálculo automático de impuestos y configuración de pago más sencilla"
 
 #: classes/class-wc-connect-paypal-ec.php:326 i18n/strings.php:53
-#: i18n/strings.php:80 i18n/strings.php:124 i18n/strings.php:397
+#: i18n/strings.php:95 i18n/strings.php:124 i18n/strings.php:397
 msgid "Required"
 msgstr "Requerido"
 
@@ -1724,13 +1724,13 @@ msgstr[1] "%(selectedCount)d paquetes seleccionados"
 msgid "Unable to get your settings. Please refresh the page to try again."
 msgstr "No ha sido posible recuperar tus ajustes. Por favor, recarga la página para intentarlo de nuevo."
 
-#: i18n/strings.php:66
+#: i18n/strings.php:108
 msgid "%(numSelected)d service selected"
 msgid_plural "%(numSelected)d services selected"
 msgstr[0] "%(numSelected)d servicio seleccionado"
 msgstr[1] "%(numSelected)d servicios seleccionados"
 
-#: i18n/strings.php:64
+#: i18n/strings.php:106
 msgid "Add and edit saved packages using the {{a}}Packaging Manager{{/a}}."
 msgstr "Añade y edita los paquetes guardados usando el {{a}}Gestor de paquetería{{/a}}."
 
@@ -1818,11 +1818,11 @@ msgstr "Mover"
 msgid "Move item"
 msgstr "Mover artículo"
 
-#: i18n/strings.php:70
+#: i18n/strings.php:112
 msgid "Increase the rates calculated by the carrier to account for packaging and handling costs. You can also add a negative amount to save your customers money."
 msgstr "Incrementa las tarifas calculadas por el transportista para tener en cuenta los costes de embalaje y manipulación. También puedes añadir una cantidad negativa para ahorrar dinero a tus clientes."
 
-#: i18n/strings.php:74
+#: i18n/strings.php:116
 msgid "Create new label"
 msgstr "Crear nueva etiqueta"
 
@@ -1853,7 +1853,7 @@ msgid "#%1$d - %2$s"
 msgstr "#%1$d - %2$s"
 
 #. translators: %s Support url
-#: woocommerce-services.php:1666
+#: woocommerce-services.php:1697
 msgid "<a href=\"%s\">Support</a>"
 msgstr "<a href=\"%s\">Soporte</a>"
 
@@ -1861,8 +1861,8 @@ msgstr "<a href=\"%s\">Soporte</a>"
 msgid "Connected to WordPress.com"
 msgstr "Conectado a WordPress.com"
 
-#: i18n/strings.php:165 woocommerce-services.php:1159
-#: woocommerce-services.php:1162
+#: i18n/strings.php:165 woocommerce-services.php:1190
+#: woocommerce-services.php:1193
 msgid "Shipping Labels"
 msgstr "Etiquetas de envío"
 
@@ -1872,8 +1872,8 @@ msgstr "Etiquetas de envío"
 msgid "https://woocommerce.com/"
 msgstr "https://woocommerce.com/"
 
-#: i18n/strings.php:269 i18n/strings.php:451 woocommerce-services.php:1619
-#: woocommerce-services.php:1647
+#: i18n/strings.php:269 i18n/strings.php:451 woocommerce-services.php:1650
+#: woocommerce-services.php:1678
 msgid "Phone"
 msgstr "Teléfono"
 
@@ -1886,11 +1886,11 @@ msgstr "Conectar"
 msgid "Save Settings"
 msgstr "Guardar ajustes"
 
-#: i18n/strings.php:60
+#: i18n/strings.php:102
 msgid "Your changes have been saved."
 msgstr "Tus cambios se han guardado."
 
-#: i18n/strings.php:61
+#: i18n/strings.php:103
 msgid "There was a problem with one or more entries. Please fix the errors below and try saving again."
 msgstr "Hubo un problema con una o más entradas. Por favor, soluciona los errores de abajo y trata de guardar de nuevo."
 
@@ -1898,14 +1898,14 @@ msgstr "Hubo un problema con una o más entradas. Por favor, soluciona los error
 msgid "Expand"
 msgstr "Ampliar"
 
-#: i18n/strings.php:4 i18n/strings.php:5 i18n/strings.php:55
-#: i18n/strings.php:56 i18n/strings.php:122 i18n/strings.php:123
+#: i18n/strings.php:4 i18n/strings.php:5 i18n/strings.php:97
+#: i18n/strings.php:98 i18n/strings.php:122 i18n/strings.php:123
 #: i18n/strings.php:126 i18n/strings.php:127 i18n/strings.php:399
 #: i18n/strings.php:400
 msgid "Dismiss"
 msgstr "Descartar"
 
-#: i18n/strings.php:58 i18n/strings.php:132
+#: i18n/strings.php:100 i18n/strings.php:132
 msgid "You have unsaved changes."
 msgstr "Tienes cambios sin guardar."
 
@@ -1940,7 +1940,7 @@ msgstr "Este campo debe ser único"
 msgid "Unable to save your shipping packages. Please try again."
 msgstr "No se han podido guardar tus paquetes de envío. Por favor, inténtalo de nuevo."
 
-#: i18n/strings.php:62 i18n/strings.php:163
+#: i18n/strings.php:104 i18n/strings.php:163
 msgid "Save changes"
 msgstr "Guardar cambios"
 
@@ -1952,32 +1952,32 @@ msgstr "Sin título"
 msgid "Dimensions (L x W x H)"
 msgstr "Dimensiones (L x An x Al)"
 
-#: i18n/strings.php:65
+#: i18n/strings.php:107
 msgid "All services selected"
 msgstr "Seleccionados todos los servicios"
 
-#: i18n/strings.php:67 i18n/strings.php:159 i18n/strings.php:430
+#: i18n/strings.php:109 i18n/strings.php:159 i18n/strings.php:430
 msgid "Expand Services"
 msgstr "Expandir servicios"
 
 #: classes/class-wc-connect-label-reports.php:175 i18n/strings.php:45
-#: i18n/strings.php:68
+#: i18n/strings.php:110
 msgid "Service"
 msgstr "Servicio"
 
-#: i18n/strings.php:69
+#: i18n/strings.php:111
 msgid "Price adjustment"
 msgstr "Ajuste de precio"
 
-#: i18n/strings.php:63
+#: i18n/strings.php:105
 msgid "Saved Packages"
 msgstr "Paquetes guardados"
 
-#: woocommerce-services.php:1320 woocommerce-services.php:1327
+#: woocommerce-services.php:1351 woocommerce-services.php:1358
 msgid "Tracking"
 msgstr "Seguimiento"
 
-#: i18n/strings.php:72 i18n/strings.php:76 i18n/strings.php:442
+#: i18n/strings.php:114 i18n/strings.php:118 i18n/strings.php:442
 msgid "Create shipping label"
 msgid_plural "Create shipping labels"
 msgstr[0] "Crear etiqueta de envío"
@@ -2092,7 +2092,7 @@ msgstr "Cancelar"
 msgid "N/A"
 msgstr "N/D"
 
-#: i18n/strings.php:7 i18n/strings.php:57 i18n/strings.php:130
+#: i18n/strings.php:7 i18n/strings.php:99 i18n/strings.php:130
 msgid "More"
 msgstr "Más"
 
@@ -2135,11 +2135,11 @@ msgstr "No ha sido posible actualizar los ajustes. %s"
 msgid "Packaging"
 msgstr "Paquetería"
 
-#: woocommerce-services.php:1737
+#: woocommerce-services.php:1768
 msgid "Section not loading? Visit the <a href=\"%s\">status page</a> for troubleshooting steps."
 msgstr "¿No carga la sección? Visita la <a href=\"%s\">página de estado</a> para ver los pasos de solución de problemas."
 
-#: woocommerce-services.php:1554
+#: woocommerce-services.php:1585
 msgid "Shipping Label"
 msgstr "Etiqueta de envío"
 
@@ -2196,81 +2196,81 @@ msgctxt "A service with an unknown title and unknown method_title"
 msgid "Unknown"
 msgstr "Desconocido"
 
-#: i18n/strings.php:97
+#: i18n/strings.php:70
 msgid "Support"
 msgstr "Soporte"
 
-#: i18n/strings.php:82 i18n/strings.php:83
+#: i18n/strings.php:55 i18n/strings.php:56
 msgid "Debug"
 msgstr "Depuración"
 
-#: i18n/strings.php:120
+#: i18n/strings.php:93
 msgid "Services"
 msgstr "Servicios"
 
-#: i18n/strings.php:100
+#: i18n/strings.php:73
 msgctxt "This section displays the overall health of WooCommerce Shipping & Tax and the things it depends on"
 msgid "Health"
 msgstr "Salud"
 
-#: i18n/strings.php:98
+#: i18n/strings.php:71
 msgid "Need help?"
 msgstr "¿Necesitas ayuda?"
 
-#: classes/class-wc-connect-help-view.php:224
+#: classes/class-wc-connect-help-view.php:228
 msgid "Log is empty"
 msgstr "El registro está vacío"
 
-#: i18n/strings.php:86 i18n/strings.php:90
+#: i18n/strings.php:59 i18n/strings.php:63
 msgid "Disabled"
 msgstr "Desactivado"
 
-#: i18n/strings.php:85 i18n/strings.php:89
+#: i18n/strings.php:58 i18n/strings.php:62
 msgid "Enabled"
 msgstr "Activo"
 
-#: classes/class-wc-connect-help-view.php:163
+#: classes/class-wc-connect-help-view.php:167
 msgid "%s Shipping Zone"
 msgstr "Zona de envío %s"
 
-#: classes/class-wc-connect-help-view.php:159
+#: classes/class-wc-connect-help-view.php:163
 msgid "The most recent rate request failed"
 msgstr "La reciente solicitud de tarifas más reciente ha fallado"
 
-#: classes/class-wc-connect-help-view.php:156
+#: classes/class-wc-connect-help-view.php:160
 msgid "The most recent rate request was successful"
 msgstr "La solicitud de tarifas más reciente ha sido correcta"
 
-#: classes/class-wc-connect-help-view.php:153
+#: classes/class-wc-connect-help-view.php:157
 msgid "No rate requests have yet been made for this service"
 msgstr "Aún no han hecho solicitudes de tarifas para este servicio"
 
-#: classes/class-wc-connect-help-view.php:150
+#: classes/class-wc-connect-help-view.php:154
 msgid "Setup for this service has not yet been completed"
 msgstr "La configuración de este servició aún no se ha completado"
 
-#: i18n/strings.php:109
+#: i18n/strings.php:82
 msgid "Service data is up-to-date"
 msgstr "Los datos del servicio están al día"
 
-#: i18n/strings.php:108
+#: i18n/strings.php:81
 msgid "Service data was found, but is more than one day old"
 msgstr "Se encontaron datos del servicio, pero son de hace más de un día"
 
-#: i18n/strings.php:107
+#: i18n/strings.php:80
 msgid "Service data was found, but is more than three days old"
 msgstr "Se encontraron datos del servicio, pero son de hace más de tres días"
 
-#: i18n/strings.php:110
+#: i18n/strings.php:83
 msgid "Service data found, but may be out of date"
 msgstr "Se han encontrado datos del servicio, pero podrían ser obsoletos"
 
-#: i18n/strings.php:111
+#: i18n/strings.php:84
 msgid "No service data available"
 msgstr "No hay disponibles datos del servicio"
 
 #. Author of the plugin
-#: woocommerce-services.php i18n/strings.php:101
+#: woocommerce-services.php i18n/strings.php:74
 msgid "WooCommerce"
 msgstr "WooCommerce"
 
@@ -2286,7 +2286,7 @@ msgstr "Por favor, establece la ubicación base en Ajustes de WooCommerce > Gene
 msgid "WooCommerce %1$s or higher is required (You are running %2$s)"
 msgstr "Se necesita WooCommerce %1$s o superior (estás ejecutando la versión %2$s)"
 
-#: classes/class-wc-connect-error-notice.php:104 woocommerce-services.php:1773
+#: classes/class-wc-connect-error-notice.php:104 woocommerce-services.php:1804
 msgid "Dismiss this notice"
 msgstr "Descartar este aviso"
 

@@ -7,13 +7,15 @@ Requires Plugins: woocommerce
 Tested up to: 6.6
 WC requires at least: 8.8
 WC tested up to: 9.0
-Stable tag: 2.7.0
+Stable tag: 2.8.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 WooCommerce Shipping & Tax offers automated tax calculation, shipping label printing, smoother payment setup, and other hosted services for WooCommerce.
 
 == Description ==
+
+**Attention:** Shipping features have moved to a new dedicated plugin. [Download WooCommerce Shipping](https://wordpress.org/plugins/woocommerce-shipping/).
 
 WooCommerce Shipping & Tax makes basic eCommerce features like shipping more reliable by taking the burden off of your site’s infrastructure.
 
@@ -78,6 +80,9 @@ The source code is freely available [in GitHub](https://github.com/Automattic/wo
 6. Checking and exporting the label purchase reports
 
 == Changelog ==
+
+= 2.8.0 - 2024-09-03 =
+* Add - A new shipping migration experience from this plugin to the newly released WooCommerce Shipping plugin.
 
 = 2.7.0 - 2024-07-25 =
 * Add - Parallel compatibility with WooCommerce Shipping plugin.
