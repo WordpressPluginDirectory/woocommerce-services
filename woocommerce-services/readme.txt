@@ -7,7 +7,7 @@ Requires Plugins: woocommerce
 Tested up to: 6.6
 WC requires at least: 8.8
 WC tested up to: 9.0
-Stable tag: 2.8.0
+Stable tag: 2.8.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -80,6 +80,9 @@ The source code is freely available [in GitHub](https://github.com/Automattic/wo
 6. Checking and exporting the label purchase reports
 
 == Changelog ==
+
+= 2.8.1 - 2024-09-09 =
+* Tweak - Hide migration banner for merchants still using legacy functionality.
 
 = 2.8.0 - 2024-09-03 =
 * Add - A new shipping migration experience from this plugin to the newly released WooCommerce Shipping plugin.

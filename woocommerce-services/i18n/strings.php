@@ -496,26 +496,26 @@ __( "Country where the product was manufactured or assembled.", "woocommerce-ser
 __( "Weight (%s per unit)", "woocommerce-services" ), // dist/chunks/dbd196cc5d1222960cd0.min.js:1
 __( "Value ($ per unit)", "woocommerce-services" ), // dist/chunks/dbd196cc5d1222960cd0.min.js:1
 __( "Which package would you like to track?", "woocommerce-services" ), // dist/chunks/dd048ff8dcf742c04ef2.min.js:1
-__( "Update", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "A new dedicated WooCommerce Shipping extension is now available", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "We'll ensure a seamless transition by transferring all your settings and shipping labels when you update.", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "Here's what you can expect from the new shipping experience:", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "A seamless transition", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "All of your settings and shipment history have been imported to the new extension.", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "Print and save", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "Speed up label creation with a streamlined process to print and save your label preferences.", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "USPS and DHL Express", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "Send using trusted shipping carriers like USPS and DHL Express, with more options and carriers coming soon.", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "Enhanced label purchase flow", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "Experience a smoother label purchasing process with our updated interface.", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "Maybe later", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "Create shipping label", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-_n( "Track Package", "Track Packages", 1, "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "Create new label", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-_n( "Track Package", "Track Packages", 1, "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "Create shipping label", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-__( "Connection error: unable to create label at this time", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-_n( "%(itemCount)d item was fulfilled on {{span}}%(createdDate)s{{/span}}", "%(itemCount)d items were fulfilled on {{span}}%(createdDate)s{{/span}}", 1, "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
-_n( "%(itemCount)d item is ready to be fulfilled", "%(itemCount)d items are ready to be fulfilled", 1, "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.0.js:1
+__( "Update", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "A new dedicated WooCommerce Shipping extension is now available", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "We'll ensure a seamless transition by transferring all your settings and shipping labels when you update.", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "Here's what you can expect from the new shipping experience:", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "A seamless transition", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "All of your settings and shipment history have been imported to the new extension.", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "Print and save", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "Speed up label creation with a streamlined process to print and save your label preferences.", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "USPS and DHL Express", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "Send using trusted shipping carriers like USPS and DHL Express, with more options and carriers coming soon.", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "Enhanced label purchase flow", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "Experience a smoother label purchasing process with our updated interface.", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "Maybe later", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "Create shipping label", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+_n( "Track Package", "Track Packages", 1, "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "Create new label", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+_n( "Track Package", "Track Packages", 1, "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "Create shipping label", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+__( "Connection error: unable to create label at this time", "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+_n( "%(itemCount)d item was fulfilled on {{span}}%(createdDate)s{{/span}}", "%(itemCount)d items were fulfilled on {{span}}%(createdDate)s{{/span}}", 1, "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
+_n( "%(itemCount)d item is ready to be fulfilled", "%(itemCount)d items are ready to be fulfilled", 1, "woocommerce-services" ), // dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.1.js:1
 );
 /* THIS IS THE END OF THE GENERATED FILE */
