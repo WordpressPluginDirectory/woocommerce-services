@@ -7,7 +7,7 @@ Requires Plugins: woocommerce
 Tested up to: 6.6
 WC requires at least: 8.8
 WC tested up to: 9.0
-Stable tag: 2.8.1
+Stable tag: 2.8.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -80,6 +80,11 @@ The source code is freely available [in GitHub](https://github.com/Automattic/wo
 6. Checking and exporting the label purchase reports
 
 == Changelog ==
+
+= 2.8.2 - 2024-09-23 =
+* Fix   - Keep live rates enabled for eligible stores when WCS&T is active alongside WooCommerce Shipping.
+* Tweak - Hide shipping migration banner for all stores not eligible to buy shipping labels.
+* Tweak - Try WooCommerce Shipping modal copy.
 
 = 2.8.1 - 2024-09-09 =
 * Tweak - Hide migration banner for merchants still using legacy functionality.

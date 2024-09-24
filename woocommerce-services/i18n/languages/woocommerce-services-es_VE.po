@@ -2230,39 +2230,39 @@ msgstr "¿No carga la sección? Visita la <a href=\"%s\">página de estado</a> p
 msgid "Shipping Label"
 msgstr "Etiqueta de envío"
 
-#: classes/class-wc-connect-service-settings-store.php:658
+#: classes/class-wc-connect-service-settings-store.php:663
 msgid "yd"
 msgstr "yd"
 
-#: classes/class-wc-connect-service-settings-store.php:656
+#: classes/class-wc-connect-service-settings-store.php:661
 msgid "in"
 msgstr "en"
 
-#: classes/class-wc-connect-service-settings-store.php:654
+#: classes/class-wc-connect-service-settings-store.php:659
 msgid "mm"
 msgstr "mm"
 
-#: classes/class-wc-connect-service-settings-store.php:652
+#: classes/class-wc-connect-service-settings-store.php:657
 msgid "cm"
 msgstr "cm"
 
-#: classes/class-wc-connect-service-settings-store.php:650
+#: classes/class-wc-connect-service-settings-store.php:655
 msgid "m"
 msgstr "m"
 
-#: classes/class-wc-connect-service-settings-store.php:648
+#: classes/class-wc-connect-service-settings-store.php:653
 msgid "oz"
 msgstr "oz"
 
-#: classes/class-wc-connect-service-settings-store.php:646
+#: classes/class-wc-connect-service-settings-store.php:651
 msgid "lbs"
 msgstr "lbs"
 
-#: classes/class-wc-connect-service-settings-store.php:644
+#: classes/class-wc-connect-service-settings-store.php:649
 msgid "g"
 msgstr "g"
 
-#: classes/class-wc-connect-service-settings-store.php:642
+#: classes/class-wc-connect-service-settings-store.php:647
 msgid "kg"
 msgstr "kg"
 

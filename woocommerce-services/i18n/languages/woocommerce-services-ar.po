@@ -2274,39 +2274,39 @@ msgstr ""
 msgid "Shipping Label"
 msgstr ""
 
-#: classes/class-wc-connect-service-settings-store.php:658
+#: classes/class-wc-connect-service-settings-store.php:663
 msgid "yd"
 msgstr ""
 
-#: classes/class-wc-connect-service-settings-store.php:656
+#: classes/class-wc-connect-service-settings-store.php:661
 msgid "in"
 msgstr ""
 
-#: classes/class-wc-connect-service-settings-store.php:654
+#: classes/class-wc-connect-service-settings-store.php:659
 msgid "mm"
 msgstr ""
 
-#: classes/class-wc-connect-service-settings-store.php:652
+#: classes/class-wc-connect-service-settings-store.php:657
 msgid "cm"
 msgstr ""
 
-#: classes/class-wc-connect-service-settings-store.php:650
+#: classes/class-wc-connect-service-settings-store.php:655
 msgid "m"
 msgstr ""
 
-#: classes/class-wc-connect-service-settings-store.php:648
+#: classes/class-wc-connect-service-settings-store.php:653
 msgid "oz"
 msgstr ""
 
-#: classes/class-wc-connect-service-settings-store.php:646
+#: classes/class-wc-connect-service-settings-store.php:651
 msgid "lbs"
 msgstr ""
 
-#: classes/class-wc-connect-service-settings-store.php:644
+#: classes/class-wc-connect-service-settings-store.php:649
 msgid "g"
 msgstr ""
 
-#: classes/class-wc-connect-service-settings-store.php:642
+#: classes/class-wc-connect-service-settings-store.php:647
 msgid "kg"
 msgstr ""
 
