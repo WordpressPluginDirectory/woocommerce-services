@@ -8,11 +8,11 @@
  * Author URI: https://woocommerce.com/
  * Text Domain: woocommerce-services
  * Domain Path: /i18n/languages/
- * Version: 2.8.4
+ * Version: 2.8.5
  * Requires at least: 6.5
  * Tested up to: 6.7
- * WC requires at least: 9.1
- * WC tested up to: 9.3
+ * WC requires at least: 9.2
+ * WC tested up to: 9.4
  *
  * Copyright (c) 2017-2023 Automattic
  *
