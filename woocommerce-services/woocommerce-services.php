@@ -8,7 +8,7 @@
  * Author URI: https://woocommerce.com/
  * Text Domain: woocommerce-services
  * Domain Path: /i18n/languages/
- * Version: 2.8.5
+ * Version: 2.8.7
  * Requires at least: 6.5
  * Tested up to: 6.7
  * WC requires at least: 9.2
@@ -767,6 +767,7 @@ if ( ! class_exists( 'WC_Connect_Loader' ) ) {
 			require_once __DIR__ . '/classes/class-wc-connect-logger.php';
 			require_once __DIR__ . '/classes/class-wc-connect-service-schemas-validator.php';
 			require_once __DIR__ . '/classes/class-wc-connect-taxjar-integration.php';
+			require_once __DIR__ . '/classes/class-wc-connect-custom-surcharge.php';
 			require_once __DIR__ . '/classes/class-wc-connect-error-notice.php';
 			require_once __DIR__ . '/classes/class-wc-connect-compatibility.php';
 			require_once __DIR__ . '/classes/class-wc-connect-compatibility-wcshipping-packages.php';
