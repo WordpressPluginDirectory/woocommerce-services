@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: _s woocommerce-services\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-07T09:19:50.018Z\n"
+"POT-Creation-Date: 2025-05-08T09:08:58.557Z\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,19 +14,19 @@ msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "Try WooCommerce Shipping"
 msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "A new WooCommerce Shipping experience is now available"
 msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid ""
 "We'll ensure a seamless transition by allowing you to migrate all your "
 "compatible settings and shipping labels when you update."
@@ -34,19 +34,19 @@ msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "Here's what you can expect from the new shipping experience:"
 msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "A seamless transition"
 msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid ""
 "Automatically migrate all your compatible settings and shipment history to "
 "the new extension."
@@ -54,13 +54,13 @@ msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "Print and save"
 msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid ""
 "Speed up label creation with a streamlined process to print and save your "
 "label preferences."
@@ -68,13 +68,13 @@ msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "USPS and DHL Express"
 msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid ""
 "Ship your productss using trusted shipping carriers like USPS and DHL "
 "Express at discounted rates, with more options and carriers coming soon."
@@ -82,33 +82,33 @@ msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "Enhanced label purchase flow"
 msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid ""
 "Experience a smoother label purchasing process with our updated interface."
 msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "Maybe later"
 msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 #: dist/chunks/fb1f5c06f226782929aa.min.js:1
 msgid "Required"
 msgstr ""
 
 #: dist/chunks/09e3d045f7655c8d6cc4.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 #: dist/chunks/fb1f5c06f226782929aa.min.js:1
 msgid "Optional"
 msgstr ""
@@ -809,31 +809,31 @@ msgstr ""
 
 #: dist/chunks/457d7acaef15f3fb312f.min.js:1
 #: dist/chunks/ad6dd58e2c34ca0f9cc8.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "Create shipping label"
 msgid_plural "Create shipping labels"
 msgstr[0] ""
 msgstr[1] ""
 
 #: dist/chunks/457d7acaef15f3fb312f.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "Track Package"
 msgid_plural "Track Packages"
 msgstr[0] ""
 msgstr[1] ""
 
 #: dist/chunks/457d7acaef15f3fb312f.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "Create new label"
 msgstr ""
 
 #: dist/chunks/457d7acaef15f3fb312f.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "Connection error: unable to create label at this time"
 msgstr ""
 
 #: dist/chunks/457d7acaef15f3fb312f.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "%(itemCount)d item was fulfilled on {{span}}%(createdDate)s{{/span}}"
 msgid_plural ""
 "%(itemCount)d items were fulfilled on {{span}}%(createdDate)s{{/span}}"
@@ -841,7 +841,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: dist/chunks/457d7acaef15f3fb312f.min.js:1
-#: dist/woocommerce-services-wcshipping-migration-admin-notice-2.8.9.js:1
+#: dist/woocommerce-services-wcshipping-migration-admin-notice-3.0.0.js:1
 msgid "%(itemCount)d item is ready to be fulfilled"
 msgid_plural "%(itemCount)d items are ready to be fulfilled"
 msgstr[0] ""
@@ -1509,162 +1509,162 @@ msgstr ""
 msgid "Value ($ per unit)"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Debug"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Display troubleshooting information on the Cart and Checkout pages."
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Enabled"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Disabled"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Logging"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid ""
 "Write diagnostic messages to log files. Helpful when contacting support."
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Shipping Log"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Taxes Log"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Other Log"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Tax Rates"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Download Backed-up Tax Rates"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid ""
 "Click a file below to download it, then import it into the {{taxRatesA}}tax "
 "rates table{{/taxRatesA}}."
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Support"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Need help?"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid ""
 "Our team is here for you. View our {{docsA}}support docs{{/docsA}} or "
 "{{ticketA}}open a support ticket{{/ticketA}}."
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgctxt ""
-"This section displays the overall health of WooCommerce Shipping & Tax and "
-"the things it depends on"
+"This section displays the overall health of WooCommerce Tax and the things "
+"it depends on"
 msgid "Health"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "WooCommerce"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "WordPress.com Connection"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Automated Taxes"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Go to the Tax settings"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Go to General settings"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Automated taxes documentation"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Service data was found, but is more than three days old"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Service data was found, but is more than one day old"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Service data is up-to-date"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Service data found, but may be out of date"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "No service data available"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
-msgid "WooCommerce Shipping & Tax Data"
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
+msgid "WooCommerce Tax Data"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Last updated %s."
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Refresh"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Log tail copied to clipboard"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Last %s entry. {{a}}Show full log{{/a}}"
 msgid_plural "Last %s entries. {{a}}Show full log{{/a}}"
 msgstr[0] ""
 msgstr[1] ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Copy for support"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid ""
 "Request was made %s - check logs below or {{a}}edit service settings{{/a}}"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Edit service settings"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "Services"
 msgstr ""
 
-#: dist/chunks/c621fe8c20904ade5963.min.js:1
+#: dist/chunks/ba25ccd52b6a129489cf.min.js:1
 msgid "No services configured. {{a}}Add a shipping service{{/a}}"
 msgstr ""
 

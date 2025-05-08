@@ -115,7 +115,7 @@ msgstr ""
 msgid "Expected but did not receive object for response body."
 msgstr ""
 
-#: woocommerce-services.php:1948
+#: woocommerce-services.php:1950
 msgid "WC Shipping and WC Tax plugins are already active. Please deactivate WooCommerce Shipping & Tax."
 msgstr ""
 
@@ -603,7 +603,7 @@ msgstr ""
 
 #. Plugin Name of the plugin
 #: woocommerce-services.php classes/class-wc-connect-privacy.php:36
-#: classes/class-wc-connect-settings-pages.php:142 woocommerce-services.php:627
+#: classes/class-wc-connect-settings-pages.php:142 woocommerce-services.php:629
 msgid "WooCommerce Shipping & Tax"
 msgstr ""
 
@@ -797,7 +797,7 @@ msgid "You save %s with WooCommerce Shipping"
 msgstr ""
 
 #. translators: %s WC download URL link.
-#: woocommerce-services.php:659
+#: woocommerce-services.php:661
 msgid "WooCommerce Shipping & Tax requires the WooCommerce plugin to be installed and active. You can download %s here."
 msgstr ""
 
@@ -920,7 +920,7 @@ msgstr ""
 msgid "0.0"
 msgstr ""
 
-#: woocommerce-services.php:1680
+#: woocommerce-services.php:1682
 msgid "Shipment Tracking"
 msgstr ""
 
@@ -928,23 +928,23 @@ msgstr ""
 msgid "Customs information valid"
 msgstr ""
 
-#: woocommerce-services.php:1724
+#: woocommerce-services.php:1726
 msgid "Packing Log:"
 msgstr ""
 
-#: woocommerce-services.php:1711
+#: woocommerce-services.php:1713
 msgid "Chosen Rate:"
 msgstr ""
 
-#: woocommerce-services.php:1707
+#: woocommerce-services.php:1709
 msgid "Shipping Method ID:"
 msgstr ""
 
-#: woocommerce-services.php:1703
+#: woocommerce-services.php:1705
 msgid "Shipping Method Name:"
 msgstr ""
 
-#: woocommerce-services.php:1687
+#: woocommerce-services.php:1689
 msgid "Shipping Debug"
 msgstr ""
 
@@ -1650,11 +1650,11 @@ msgstr ""
 msgid "Refresh"
 msgstr ""
 
-#: woocommerce-services.php:1395
+#: woocommerce-services.php:1397
 msgid "Tracking number"
 msgstr ""
 
-#: woocommerce-services.php:1394
+#: woocommerce-services.php:1396
 msgid "Provider"
 msgstr ""
 
@@ -1982,7 +1982,7 @@ msgid "#%1$d - %2$s"
 msgstr ""
 
 #. translators: %s Support url
-#: woocommerce-services.php:1794
+#: woocommerce-services.php:1796
 msgid "<a href=\"%s\">Support</a>"
 msgstr ""
 
@@ -1990,8 +1990,8 @@ msgstr ""
 msgid "Connected to WordPress.com"
 msgstr ""
 
-#: i18n/strings.php:63 woocommerce-services.php:1222
-#: woocommerce-services.php:1225
+#: i18n/strings.php:63 woocommerce-services.php:1224
+#: woocommerce-services.php:1227
 msgid "Shipping Labels"
 msgstr ""
 
@@ -2001,8 +2001,8 @@ msgstr ""
 msgid "https://woocommerce.com/"
 msgstr ""
 
-#: i18n/strings.php:167 i18n/strings.php:260 woocommerce-services.php:1747
-#: woocommerce-services.php:1775
+#: i18n/strings.php:167 i18n/strings.php:260 woocommerce-services.php:1749
+#: woocommerce-services.php:1777
 msgid "Phone"
 msgstr ""
 
@@ -2106,7 +2106,7 @@ msgstr ""
 msgid "Saved Packages"
 msgstr ""
 
-#: woocommerce-services.php:1383 woocommerce-services.php:1390
+#: woocommerce-services.php:1385 woocommerce-services.php:1392
 msgid "Tracking"
 msgstr ""
 
@@ -2274,11 +2274,11 @@ msgstr ""
 msgid "Packaging"
 msgstr ""
 
-#: woocommerce-services.php:1876
+#: woocommerce-services.php:1878
 msgid "Section not loading? Visit the <a href=\"%s\">status page</a> for troubleshooting steps."
 msgstr ""
 
-#: woocommerce-services.php:1682
+#: woocommerce-services.php:1684
 msgid "Shipping Label"
 msgstr ""
 
@@ -2425,7 +2425,7 @@ msgstr ""
 msgid "WooCommerce %1$s or higher is required (You are running %2$s)"
 msgstr ""
 
-#: classes/class-wc-connect-error-notice.php:104 woocommerce-services.php:1912
+#: classes/class-wc-connect-error-notice.php:104 woocommerce-services.php:1914
 msgid "Dismiss this notice"
 msgstr ""
 

@@ -115,7 +115,7 @@ msgstr ""
 msgid "Expected but did not receive object for response body."
 msgstr ""
 
-#: woocommerce-services.php:1948
+#: woocommerce-services.php:1950
 msgid "WC Shipping and WC Tax plugins are already active. Please deactivate WooCommerce Shipping & Tax."
 msgstr ""
 
@@ -603,7 +603,7 @@ msgstr ""
 
 #. Plugin Name of the plugin
 #: woocommerce-services.php classes/class-wc-connect-privacy.php:36
-#: classes/class-wc-connect-settings-pages.php:142 woocommerce-services.php:627
+#: classes/class-wc-connect-settings-pages.php:142 woocommerce-services.php:629
 msgid "WooCommerce Shipping & Tax"
 msgstr "WooCommerce の送料と税金"
 
@@ -787,7 +787,7 @@ msgid "You save %s with WooCommerce Shipping"
 msgstr ""
 
 #. translators: %s WC download URL link.
-#: woocommerce-services.php:659
+#: woocommerce-services.php:661
 msgid "WooCommerce Shipping & Tax requires the WooCommerce plugin to be installed and active. You can download %s here."
 msgstr ""
 
@@ -895,7 +895,7 @@ msgstr ""
 msgid "0.0"
 msgstr ""
 
-#: woocommerce-services.php:1680
+#: woocommerce-services.php:1682
 msgid "Shipment Tracking"
 msgstr "配送状況の追跡"
 
@@ -903,23 +903,23 @@ msgstr "配送状況の追跡"
 msgid "Customs information valid"
 msgstr "関税情報が有効"
 
-#: woocommerce-services.php:1724
+#: woocommerce-services.php:1726
 msgid "Packing Log:"
 msgstr "パッキングログ:"
 
-#: woocommerce-services.php:1711
+#: woocommerce-services.php:1713
 msgid "Chosen Rate:"
 msgstr "選択したレート:"
 
-#: woocommerce-services.php:1707
+#: woocommerce-services.php:1709
 msgid "Shipping Method ID:"
 msgstr "配送方法 ID:"
 
-#: woocommerce-services.php:1703
+#: woocommerce-services.php:1705
 msgid "Shipping Method Name:"
 msgstr "配送方法名:"
 
-#: woocommerce-services.php:1687
+#: woocommerce-services.php:1689
 msgid "Shipping Debug"
 msgstr "配送デバッグ"
 
@@ -1615,11 +1615,11 @@ msgstr "PayPal アカウントをリンクする"
 msgid "Refresh"
 msgstr "更新"
 
-#: woocommerce-services.php:1395
+#: woocommerce-services.php:1397
 msgid "Tracking number"
 msgstr "追跡番号"
 
-#: woocommerce-services.php:1394
+#: woocommerce-services.php:1396
 msgid "Provider"
 msgstr "プロバイダー"
 
@@ -1937,7 +1937,7 @@ msgid "#%1$d - %2$s"
 msgstr "#%1$d - %2$s"
 
 #. translators: %s Support url
-#: woocommerce-services.php:1794
+#: woocommerce-services.php:1796
 msgid "<a href=\"%s\">Support</a>"
 msgstr "<a href=\"%s\">サポート</a>"
 
@@ -1945,8 +1945,8 @@ msgstr "<a href=\"%s\">サポート</a>"
 msgid "Connected to WordPress.com"
 msgstr ""
 
-#: i18n/strings.php:63 woocommerce-services.php:1222
-#: woocommerce-services.php:1225
+#: i18n/strings.php:63 woocommerce-services.php:1224
+#: woocommerce-services.php:1227
 msgid "Shipping Labels"
 msgstr "出荷ラベル"
 
@@ -1956,8 +1956,8 @@ msgstr "出荷ラベル"
 msgid "https://woocommerce.com/"
 msgstr "https://woocommerce.com/"
 
-#: i18n/strings.php:167 i18n/strings.php:260 woocommerce-services.php:1747
-#: woocommerce-services.php:1775
+#: i18n/strings.php:167 i18n/strings.php:260 woocommerce-services.php:1749
+#: woocommerce-services.php:1777
 msgid "Phone"
 msgstr "電話"
 
@@ -2056,7 +2056,7 @@ msgstr "価格調整"
 msgid "Saved Packages"
 msgstr "保存済みパッケージ"
 
-#: woocommerce-services.php:1383 woocommerce-services.php:1390
+#: woocommerce-services.php:1385 woocommerce-services.php:1392
 msgid "Tracking"
 msgstr "トラッキング"
 
@@ -2219,11 +2219,11 @@ msgstr "設定を更新できません。 %s"
 msgid "Packaging"
 msgstr "パッケージング"
 
-#: woocommerce-services.php:1876
+#: woocommerce-services.php:1878
 msgid "Section not loading? Visit the <a href=\"%s\">status page</a> for troubleshooting steps."
 msgstr "セクションがロードされない?トラブルシューティング手順については、<a href=\"%s\">ステータスページの </a> を参照してください。"
 
-#: woocommerce-services.php:1682
+#: woocommerce-services.php:1684
 msgid "Shipping Label"
 msgstr "配送ラベル"
 
@@ -2370,7 +2370,7 @@ msgstr "ベースの場所は WooCommerce 設定 > 一般設定 に設定して�
 msgid "WooCommerce %1$s or higher is required (You are running %2$s)"
 msgstr ""
 
-#: classes/class-wc-connect-error-notice.php:104 woocommerce-services.php:1912
+#: classes/class-wc-connect-error-notice.php:104 woocommerce-services.php:1914
 msgid "Dismiss this notice"
 msgstr "この通知を非表示"
 
