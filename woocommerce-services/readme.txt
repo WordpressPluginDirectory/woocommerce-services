@@ -7,7 +7,7 @@ Requires Plugins: woocommerce
 Tested up to: 6.8
 WC requires at least: 9.6
 WC tested up to: 9.8
-Stable tag: 3.0.0
+Stable tag: 3.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -80,6 +80,9 @@ The source code is freely available [in GitHub](https://github.com/Automattic/wo
 6. Checking and exporting the label purchase reports
 
 == Changelog ==
+
+= 3.0.1 - 2025-05-22 =
+* Fix   - Maintain label purchase functionality on iOS app for eligible installations.
 
 = 3.0.0 - 2025-05-08 =
 * Add   - Legacy site detection to maintain shipping functionality for existing installations.

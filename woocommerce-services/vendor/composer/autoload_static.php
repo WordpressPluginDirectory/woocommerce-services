@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitde96c66fe37c0cbfc4b230ec50c95cba
+class ComposerStaticInit7109386222804879fea6838ada605690
 {
     public static $files = array (
         '3773ef3f09c37da5478d578e32b03a4b' => __DIR__ . '/..' . '/automattic/jetpack-assets/actions.php',
@@ -61,7 +61,10 @@ class ComposerStaticInitde96c66fe37c0cbfc4b230ec50c95cba
         'Automattic\\Jetpack\\Connection\\Server_Sandbox' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/class-server-sandbox.php',
         'Automattic\\Jetpack\\Connection\\Tokens' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/class-tokens.php',
         'Automattic\\Jetpack\\Connection\\Tokens_Locks' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/class-tokens-locks.php',
+        'Automattic\\Jetpack\\Connection\\Traits\\WPCOM_REST_API_Proxy_Request' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/traits/trait-wpcom-rest-api-proxy-request.php',
         'Automattic\\Jetpack\\Connection\\Urls' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/class-urls.php',
+        'Automattic\\Jetpack\\Connection\\User_Account_Status' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/class-user-account-status.php',
+        'Automattic\\Jetpack\\Connection\\Users_Connection_Admin' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/class-users-connection-admin.php',
         'Automattic\\Jetpack\\Connection\\Utils' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/class-utils.php',
         'Automattic\\Jetpack\\Connection\\Webhooks' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/class-webhooks.php',
         'Automattic\\Jetpack\\Connection\\Webhooks\\Authorize_Redirect' => __DIR__ . '/..' . '/automattic/jetpack-connection/src/webhooks/class-authorize-redirect.php',
@@ -102,9 +105,9 @@ class ComposerStaticInitde96c66fe37c0cbfc4b230ec50c95cba
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitde96c66fe37c0cbfc4b230ec50c95cba::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitde96c66fe37c0cbfc4b230ec50c95cba::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInitde96c66fe37c0cbfc4b230ec50c95cba::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit7109386222804879fea6838ada605690::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit7109386222804879fea6838ada605690::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit7109386222804879fea6838ada605690::$classMap;
 
         }, null, ClassLoader::class);
     }

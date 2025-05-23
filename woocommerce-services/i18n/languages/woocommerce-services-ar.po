@@ -11,6 +11,34 @@ msgstr ""
 "Language: ar\n"
 "Project-Id-Version: Plugins - WooCommerce Shipping &amp; Tax - Stable (latest release)\n"
 
+#: woocommerce-services.php:1858
+msgid "WooCommerce Tax (previously WooCommerce Shipping & Tax)"
+msgstr ""
+
+#: i18n/strings.php:473
+msgid "WooCommerce Tax Data"
+msgstr ""
+
+#: classes/class-wc-connect-nux.php:434 classes/class-wc-connect-nux.php:515
+msgid "Connect your site to activate WooCommerce Tax"
+msgstr ""
+
+#: classes/class-wc-connect-debug-tools.php:25
+msgid "Test your WooCommerce Tax connection"
+msgstr ""
+
+#. Description of the plugin
+#: woocommerce-services.php woocommerce-services.php:1870
+msgid "Automated tax calculation for WooCommerce."
+msgstr ""
+
+#. Plugin Name of the plugin
+#: woocommerce-services.php classes/class-wc-connect-privacy.php:36
+#: classes/class-wc-connect-settings-pages.php:142
+#: woocommerce-services.php:1866
+msgid "WooCommerce Tax"
+msgstr ""
+
 #: classes/class-wc-connect-custom-surcharge.php:114
 msgid "Retail Delivery Fee"
 msgstr ""
@@ -115,7 +143,7 @@ msgstr ""
 msgid "Expected but did not receive object for response body."
 msgstr ""
 
-#: woocommerce-services.php:1950
+#: woocommerce-services.php:2019
 msgid "WC Shipping and WC Tax plugins are already active. Please deactivate WooCommerce Shipping & Tax."
 msgstr ""
 
@@ -124,14 +152,14 @@ msgid "WordPress.com Connection"
 msgstr ""
 
 #: classes/class-wc-connect-settings-pages.php:87
-msgid "Note: WooCommerce Shipping & Tax is configured to work in offline mode. This site will not be able to obtain payment methods from WooCommerce Shipping & Tax production servers."
+msgid "Note: WooCommerce Tax is configured to work in offline mode. This site will not be able to obtain payment methods from WooCommerce Tax production servers."
 msgstr ""
 
 #: classes/class-wc-connect-settings-pages.php:85
-msgid "Note: Your site is connected but WooCommerce Shipping & Tax is configured to work in offline mode. Please disable offline mode."
+msgid "Note: Your site is connected but WooCommerce Tax is configured to work in offline mode. Please disable offline mode."
 msgstr ""
 
-#: classes/class-wc-connect-nux.php:564
+#: classes/class-wc-connect-nux.php:555
 msgid "By clicking \"%1$s\", you agree to our <a href=\"%2$s\">Terms of Service</a> and have read our <a href=\"%3$s\">Privacy Policy</a>."
 msgstr ""
 
@@ -416,25 +444,25 @@ msgid "DHL Express live rates are now available"
 msgstr ""
 
 #. Translators: %1$s: State name, %2$s: Country name
-#: classes/class-wc-connect-shipping-method.php:299
+#: classes/class-wc-connect-shipping-method.php:289
 msgid "State %1$s is invalid for %2$s."
 msgstr ""
 
 #. Translators: %1$s: Localized label for Zip/postal code, %2$s: submitted
 #. zip/postal code, %3$s: Country name
-#: classes/class-wc-connect-shipping-method.php:262
+#: classes/class-wc-connect-shipping-method.php:252
 msgid "%1$s %2$s is invalid for %3$s."
 msgstr ""
 
 #. Translators: %1$s: Localized label for Zip/postal code, %2$s: Country name
 #. Translators: %1$s: Localized label for province/region/state, %2$s: Country
 #. name
-#: classes/class-wc-connect-shipping-method.php:248
-#: classes/class-wc-connect-shipping-method.php:285
+#: classes/class-wc-connect-shipping-method.php:238
+#: classes/class-wc-connect-shipping-method.php:275
 msgid "A %1$s is required for %2$s."
 msgstr ""
 
-#: classes/class-wc-connect-shipping-method.php:235
+#: classes/class-wc-connect-shipping-method.php:225
 msgid "A country is required"
 msgstr ""
 
@@ -555,16 +583,8 @@ msgstr ""
 msgid "Loading"
 msgstr ""
 
-#: i18n/strings.php:473
-msgid "WooCommerce Shipping & Tax Data"
-msgstr ""
-
 #: i18n/strings.php:249
 msgid "Print customs form"
-msgstr ""
-
-#: classes/class-wc-connect-debug-tools.php:25
-msgid "Test your WooCommerce Shipping & Tax connection"
 msgstr ""
 
 #: classes/class-wc-connect-help-view.php:288
@@ -574,10 +594,6 @@ msgstr ""
 #: classes/class-wc-connect-help-view.php:257
 msgctxt "The WooCommerce Shipping & Tax brandname"
 msgid "WooCommerce Shipping & Tax"
-msgstr ""
-
-#: classes/class-wc-connect-nux.php:443 classes/class-wc-connect-nux.php:524
-msgid "Connect your site to activate WooCommerce Shipping & Tax"
 msgstr ""
 
 #: classes/class-wc-connect-nux.php:210
@@ -597,14 +613,8 @@ msgctxt "The WooCommerce Shipping & Tax brandname"
 msgid "WooCommerce Shipping"
 msgstr ""
 
-#: classes/class-wc-connect-api-client.php:66
+#: classes/class-wc-connect-api-client.php:65
 msgid "Invalid WooCommerce Shipping & Tax service slug provided"
-msgstr ""
-
-#. Plugin Name of the plugin
-#: woocommerce-services.php classes/class-wc-connect-privacy.php:36
-#: classes/class-wc-connect-settings-pages.php:142 woocommerce-services.php:629
-msgid "WooCommerce Shipping & Tax"
 msgstr ""
 
 #: classes/class-wc-connect-taxjar-integration.php:414 i18n/strings.php:166
@@ -797,8 +807,8 @@ msgid "You save %s with WooCommerce Shipping"
 msgstr ""
 
 #. translators: %s WC download URL link.
-#: woocommerce-services.php:661
-msgid "WooCommerce Shipping & Tax requires the WooCommerce plugin to be installed and active. You can download %s here."
+#: woocommerce-services.php:662
+msgid "WooCommerce Tax requires the WooCommerce plugin to be installed and active. You can download %s here."
 msgstr ""
 
 #: i18n/strings.php:194
@@ -920,7 +930,7 @@ msgstr ""
 msgid "0.0"
 msgstr ""
 
-#: woocommerce-services.php:1682
+#: woocommerce-services.php:1686
 msgid "Shipment Tracking"
 msgstr ""
 
@@ -928,23 +938,23 @@ msgstr ""
 msgid "Customs information valid"
 msgstr ""
 
-#: woocommerce-services.php:1726
+#: woocommerce-services.php:1730
 msgid "Packing Log:"
 msgstr ""
 
-#: woocommerce-services.php:1713
+#: woocommerce-services.php:1717
 msgid "Chosen Rate:"
 msgstr ""
 
-#: woocommerce-services.php:1709
+#: woocommerce-services.php:1713
 msgid "Shipping Method ID:"
 msgstr ""
 
-#: woocommerce-services.php:1705
+#: woocommerce-services.php:1709
 msgid "Shipping Method Name:"
 msgstr ""
 
-#: woocommerce-services.php:1689
+#: woocommerce-services.php:1693
 msgid "Shipping Debug"
 msgstr ""
 
@@ -952,57 +962,57 @@ msgstr ""
 msgid "<strong>\"%2$s\" is missing weight, length, width, or height.</strong><br />Shipping rates cannot be calculated. <a href=\"%1$s\">Enter dimensions and weight for %2$s</a> so your customers can purchase this item."
 msgstr ""
 
-#: classes/class-wc-connect-api-client.php:599
-msgid "Unable to send request to WooCommerce Shipping & Tax server. The timestamp generated for the signature is too old."
+#: classes/class-wc-connect-api-client.php:617
+msgid "Unable to send request to WooCommerce Tax server. The timestamp generated for the signature is too old."
 msgstr ""
 
-#: classes/class-wc-connect-api-client.php:538
-msgid "Unable to send request to WooCommerce Shipping & Tax server. WordPress.com token is malformed."
+#: classes/class-wc-connect-api-client.php:556
+msgid "Unable to send request to WooCommerce Tax server. WordPress.com token is malformed."
 msgstr ""
 
-#: classes/class-wc-connect-api-client.php:531
-msgid "Unable to send request to WooCommerce Shipping & Tax server. WordPress.com token is missing"
+#: classes/class-wc-connect-api-client.php:549
+msgid "Unable to send request to WooCommerce Tax server. WordPress.com token is missing"
 msgstr ""
 
 #. translators: %1$s: error code, %2$s: error message, %3$d: HTTP response code
 #: classes/class-wc-connect-api-client-live.php:113
-msgid "Error: The WooCommerce Shipping & Tax server returned: %1$s %2$s ( %3$d )"
+msgid "Error: The WooCommerce Tax server returned: %1$s %2$s ( %3$d )"
 msgstr ""
 
 #: classes/class-wc-connect-api-client-live.php:94
-msgid "Error: The WooCommerce Shipping & Tax server returned ( %d ) and an empty response body."
+msgid "Error: The WooCommerce Tax server returned ( %d ) and an empty response body."
 msgstr ""
 
 #: classes/class-wc-connect-api-client-live.php:73
-msgid "Error: The WooCommerce Shipping & Tax server returned HTTP code: %d"
+msgid "Error: The WooCommerce Tax server returned HTTP code: %d"
 msgstr ""
 
 #: classes/class-wc-connect-api-client-live.php:39
-msgid "Unable to encode body for request to WooCommerce Shipping & Tax server."
+msgid "Unable to encode body for request to WooCommerce Tax server."
 msgstr ""
 
 #: classes/class-wc-connect-api-client-live.php:23
-msgid "Unable to send request to WooCommerce Shipping & Tax server. Body must be an array."
+msgid "Unable to send request to WooCommerce Tax server. Body must be an array."
 msgstr ""
 
-#: classes/class-wc-connect-api-client.php:162
+#: classes/class-wc-connect-api-client.php:161
 msgid "No shipping rate could be calculated. No items in the package are shippable."
 msgstr ""
 
-#: classes/class-wc-connect-api-client.php:114
+#: classes/class-wc-connect-api-client.php:113
 msgid "Product ( ID: %d ) is missing a dimension value. Shipping rates cannot be calculated."
 msgstr ""
 
-#: classes/class-wc-connect-api-client.php:99
+#: classes/class-wc-connect-api-client.php:98
 msgid "Product ( ID: %d ) did not include a weight. Shipping rates cannot be calculated."
 msgstr ""
 
-#: classes/class-wc-connect-shipping-method.php:566
+#: classes/class-wc-connect-shipping-method.php:556
 msgid "Packing log:"
 msgstr ""
 
 #. translators: 1: name of shipping service, 2: shipping rate (price)
-#: classes/class-wc-connect-shipping-method.php:559
+#: classes/class-wc-connect-shipping-method.php:549
 msgid "Received rate: %1$s (%2$s)"
 msgstr ""
 
@@ -1399,22 +1409,6 @@ msgstr ""
 msgid "Retry"
 msgstr ""
 
-#: classes/class-wc-connect-nux.php:359
-msgid "shipping label printing"
-msgstr ""
-
-#: classes/class-wc-connect-nux.php:353
-msgid "shipping label printing and smoother payment setup"
-msgstr ""
-
-#: classes/class-wc-connect-nux.php:351
-msgid "automated tax calculation and shipping label printing"
-msgstr ""
-
-#: classes/class-wc-connect-nux.php:347
-msgid "automated tax calculation, shipping label printing, and smoother payment setup"
-msgstr ""
-
 #: classes/wc-api-dev/class-wc-rest-dev-data-controller.php:182
 msgid "Data resource description."
 msgstr ""
@@ -1527,7 +1521,7 @@ msgid "Shipping label service"
 msgstr ""
 
 #: classes/class-wc-connect-privacy.php:71
-msgid "Warning: Erasing personal data will cause the ability to reprint or refund WooCommerce Shipping & Tax shipping labels to be lost on the affected orders."
+msgid "Warning: Erasing personal data will cause the ability to reprint or refund WooCommerce Tax shipping labels to be lost on the affected orders."
 msgstr ""
 
 #: classes/class-wc-connect-privacy.php:40
@@ -1615,11 +1609,11 @@ msgid "Payment Email"
 msgstr ""
 
 #: classes/class-wc-connect-paypal-ec.php:300
-msgid "To authenticate payments with WooCommerce Shipping & Tax, <a href=\"%s\">click here</a>."
+msgid "To authenticate payments with WooCommerce Tax, <a href=\"%s\">click here</a>."
 msgstr ""
 
 #: classes/class-wc-connect-paypal-ec.php:280
-msgid "Payments will be authenticated by WooCommerce Shipping & Tax and directed to the following email address. To disable this feature and link a PayPal account, <a href=\"%s\">click here</a>."
+msgid "Payments will be authenticated by WooCommerce Tax and directed to the following email address. To disable this feature and link a PayPal account, <a href=\"%s\">click here</a>."
 msgstr ""
 
 #: classes/class-wc-connect-paypal-ec.php:270
@@ -1650,16 +1644,15 @@ msgstr ""
 msgid "Refresh"
 msgstr ""
 
-#: woocommerce-services.php:1397
+#: woocommerce-services.php:1401
 msgid "Tracking number"
 msgstr ""
 
-#: woocommerce-services.php:1396
+#: woocommerce-services.php:1400
 msgid "Provider"
 msgstr ""
 
-#. Description of the plugin
-#: woocommerce-services.php
+#: woocommerce-services.php:1862
 msgid "Hosted services for WooCommerce: automated tax calculation, shipping label printing, and smoother payment setup."
 msgstr ""
 
@@ -1711,29 +1704,29 @@ msgstr ""
 msgid "Automated taxes"
 msgstr ""
 
-#: classes/class-wc-connect-nux.php:482
+#: classes/class-wc-connect-nux.php:473
 msgid "Setup complete."
 msgstr ""
 
 #. translators: %s: list of features, potentially comma separated
-#: classes/class-wc-connect-nux.php:477
+#: classes/class-wc-connect-nux.php:468
 msgid "You can now enjoy %s."
 msgstr ""
 
 #. translators: %s: list of features, potentially comma separated
-#: classes/class-wc-connect-nux.php:440 classes/class-wc-connect-nux.php:519
-msgid "WooCommerce Shipping & Tax is almost ready to go! Once you connect your site to WordPress.com you'll have access to %s."
+#: classes/class-wc-connect-nux.php:431 classes/class-wc-connect-nux.php:510
+msgid "WooCommerce Tax is almost ready to go! Once you connect your site to WordPress.com you'll have access to %s."
 msgstr ""
 
-#: classes/class-wc-connect-nux.php:357
+#: classes/class-wc-connect-nux.php:350
 msgid "automated tax calculation"
 msgstr ""
 
-#: classes/class-wc-connect-nux.php:355
+#: classes/class-wc-connect-nux.php:348
 msgid "smoother payment setup"
 msgstr ""
 
-#: classes/class-wc-connect-nux.php:349
+#: classes/class-wc-connect-nux.php:346
 msgid "automated tax calculation and smoother payment setup"
 msgstr ""
 
@@ -1794,7 +1787,7 @@ msgstr ""
 msgid "Order not found"
 msgstr ""
 
-#: classes/class-wc-connect-nux.php:484
+#: classes/class-wc-connect-nux.php:475
 msgid "Got it, thanks!"
 msgstr ""
 
@@ -1982,7 +1975,7 @@ msgid "#%1$d - %2$s"
 msgstr ""
 
 #. translators: %s Support url
-#: woocommerce-services.php:1796
+#: woocommerce-services.php:1800
 msgid "<a href=\"%s\">Support</a>"
 msgstr ""
 
@@ -1990,8 +1983,8 @@ msgstr ""
 msgid "Connected to WordPress.com"
 msgstr ""
 
-#: i18n/strings.php:63 woocommerce-services.php:1224
-#: woocommerce-services.php:1227
+#: i18n/strings.php:63 woocommerce-services.php:1228
+#: woocommerce-services.php:1231
 msgid "Shipping Labels"
 msgstr ""
 
@@ -2001,12 +1994,12 @@ msgstr ""
 msgid "https://woocommerce.com/"
 msgstr ""
 
-#: i18n/strings.php:167 i18n/strings.php:260 woocommerce-services.php:1749
-#: woocommerce-services.php:1777
+#: i18n/strings.php:167 i18n/strings.php:260 woocommerce-services.php:1753
+#: woocommerce-services.php:1781
 msgid "Phone"
 msgstr ""
 
-#: classes/class-wc-connect-nux.php:445 classes/class-wc-connect-nux.php:526
+#: classes/class-wc-connect-nux.php:436 classes/class-wc-connect-nux.php:517
 #: i18n/strings.php:109 i18n/strings.php:181 i18n/strings.php:190
 msgid "Connect"
 msgstr ""
@@ -2106,7 +2099,7 @@ msgstr ""
 msgid "Saved Packages"
 msgstr ""
 
-#: woocommerce-services.php:1385 woocommerce-services.php:1392
+#: woocommerce-services.php:1389 woocommerce-services.php:1396
 msgid "Tracking"
 msgstr ""
 
@@ -2239,12 +2232,12 @@ msgstr ""
 msgid "Invalid PDF request."
 msgstr ""
 
-#: classes/class-wc-connect-shipping-method.php:513
+#: classes/class-wc-connect-shipping-method.php:503
 #: classes/class-wc-rest-connect-shipping-label-controller.php:147
 msgid "Unknown package"
 msgstr ""
 
-#: classes/class-wc-connect-shipping-method.php:515
+#: classes/class-wc-connect-shipping-method.php:505
 #: classes/class-wc-rest-connect-shipping-label-controller.php:143
 msgid "Individual packaging"
 msgstr ""
@@ -2269,16 +2262,16 @@ msgstr ""
 msgid "Unable to update settings. %s"
 msgstr ""
 
-#: classes/class-wc-connect-shipping-method.php:546 i18n/strings.php:97
+#: classes/class-wc-connect-shipping-method.php:536 i18n/strings.php:97
 #: i18n/strings.php:284
 msgid "Packaging"
 msgstr ""
 
-#: woocommerce-services.php:1878
+#: woocommerce-services.php:1947
 msgid "Section not loading? Visit the <a href=\"%s\">status page</a> for troubleshooting steps."
 msgstr ""
 
-#: woocommerce-services.php:1684
+#: woocommerce-services.php:1688
 msgid "Shipping Label"
 msgstr ""
 
@@ -2348,7 +2341,7 @@ msgid "Services"
 msgstr ""
 
 #: i18n/strings.php:461
-msgctxt "This section displays the overall health of WooCommerce Shipping & Tax and the things it depends on"
+msgctxt "This section displays the overall health of WooCommerce Tax and the things it depends on"
 msgid "Health"
 msgstr ""
 
@@ -2425,20 +2418,20 @@ msgstr ""
 msgid "WooCommerce %1$s or higher is required (You are running %2$s)"
 msgstr ""
 
-#: classes/class-wc-connect-error-notice.php:104 woocommerce-services.php:1914
+#: classes/class-wc-connect-error-notice.php:104 woocommerce-services.php:1983
 msgid "Dismiss this notice"
 msgstr ""
 
 #: classes/class-wc-connect-debug-tools.php:64
-msgid "ERROR: Your site has a problem connecting to the WooCommerce Shipping & Tax API. Please make sure your WordPress.com connection is working."
+msgid "ERROR: Your site has a problem connecting to the WooCommerce Tax API. Please make sure your WordPress.com connection is working."
 msgstr ""
 
 #: classes/class-wc-connect-debug-tools.php:61
-msgid "Your site is successfully communicating to the WooCommerce Shipping & Tax API."
+msgid "Your site is successfully communicating to the WooCommerce Tax API."
 msgstr ""
 
 #: classes/class-wc-connect-debug-tools.php:27
-msgid "This will test your WooCommerce Shipping & Tax connection to ensure everything is working correctly"
+msgid "This will test your WooCommerce Tax connection to ensure everything is working correctly"
 msgstr ""
 
 #: classes/class-wc-connect-debug-tools.php:26
