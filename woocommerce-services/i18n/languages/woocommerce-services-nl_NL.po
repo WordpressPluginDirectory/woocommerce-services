@@ -103,7 +103,7 @@ msgstr "De nieuwe plugin mist een functie waarop ik vertrouw."
 msgid "WC Services store notices"
 msgstr "WC diensten winkelberichten"
 
-#: classes/class-wc-connect-taxjar-integration.php:124
+#: classes/class-wc-connect-taxjar-integration.php:122
 msgid "Tax"
 msgstr "Belasting"
 
@@ -327,18 +327,18 @@ msgstr "Bij verzending naar landen die de douaneregels van de Europese Unie (EU)
 #. translators: 1: full state and country name, 2: anchor opening with tax rate
 #. link, 3: anchor closer, 4: anchor opening with tax nexus link, 5: anchor
 #. closer
-#: classes/class-wc-connect-taxjar-integration.php:280
+#: classes/class-wc-connect-taxjar-integration.php:278
 msgid "Your tax rates are now automatically calculated for %1$s. Automated taxes uses your store address as your \"tax nexus\". If you want to charge tax for any other state, you can add a %2$stax rate%3$s for that state in addition to using automated taxes. %4$sLearn more about Tax Nexus here%5$s."
 msgstr "Je belasting tarieven worden nu automatisch berekend voor %1$s. Geautomatiseerde belastingen gebruik je winkel adres als je \"fiscale nexus\". Als je belasting wil heffen voor een andere staat, kun je een %2$sbelasting tarief%3$s toevoegen voor die staat, naast het gebruik van automatische belastingen. %4$sMeer informatie over belasting nexus vindt je hier%5$s."
 
 #. translators: 1: full state and country name, 2: anchor opening with tax rate
 #. link, 3: anchor closer, 4: anchor opening with tax nexus link, 5: anchor
 #. closer
-#: classes/class-wc-connect-taxjar-integration.php:276
+#: classes/class-wc-connect-taxjar-integration.php:274
 msgid "Your tax rates and settings will be automatically configured for %1$s. Automated taxes uses your store address as your \"tax nexus\". If you want to charge tax for any other state, you can add a %2$stax rate%3$s for that state in addition to using automated taxes. %4$sLearn more about Tax Nexus here%5$s."
 msgstr "Je belasting tarieven en instellingen worden automatisch geconfigureerd voor %1$s. Geautomatiseerde belastingen gebruik je winkel adres als je \"fiscale nexus\". Als je belasting wil heffen voor een andere staat, kun je een %2$sbelasting tarief%3$s toevoegen voor die staat, naast het gebruik van automatische belastingen. %4$sMeer informatie over belasting nexus vindt je hier%5$s."
 
-#: classes/class-wc-connect-taxjar-integration.php:215
+#: classes/class-wc-connect-taxjar-integration.php:213
 msgid "Automated taxes take over from the WooCommerce core tax settings. This means that \"Display prices\" will be set to Excluding tax and tax will be Calculated using Customer shipping address. %1$sLearn more about Automated taxes here.%2$s"
 msgstr "Geautomatiseerde belastingen nemen de belasting instellingen van de WooCommerce core over. Dit betekent dat \"Weergave prijzen\" worden ingesteld op exclusief belasting en dat de belasting wordt berekend aan de hand van het verzend adres van de klant. %1$sMeer informatie over geautomatiseerde belastingen vindt je hier.%2$s"
 
@@ -358,7 +358,7 @@ msgstr "De dienst selectie opslaan van de vorige transactie."
 msgid "Service Selection"
 msgstr "Dienst selectie"
 
-#: classes/class-wc-connect-taxjar-integration.php:432
+#: classes/class-wc-connect-taxjar-integration.php:430
 msgctxt "%s - ZIP/Postal code checkout field label"
 msgid "%s is not formatted correctly."
 msgstr "%s is niet correct geformatteerd."
@@ -375,11 +375,11 @@ msgstr "Geback-upte belastingtarieven downloaden"
 msgid "Tax Rates"
 msgstr "Belasting tarieven"
 
-#: classes/class-wc-connect-taxjar-integration.php:220
+#: classes/class-wc-connect-taxjar-integration.php:218
 msgid "Your existing tax rates will be backed-up to a CSV that you can download %1$shere%2$s."
 msgstr "Je bestaande belasting tarieven worden opgeslagen in een CSV die je hier kunt downloaden %1$s%2$s."
 
-#: classes/class-wc-connect-taxjar-integration.php:217
+#: classes/class-wc-connect-taxjar-integration.php:215
 msgid "Your previous tax rates were backed up and can be downloaded %1$shere%2$s."
 msgstr "Je vorige belasting tarieven werden opgeslagen en kunnen worden gedownload %1$shier%2$s."
 
@@ -439,7 +439,7 @@ msgstr "De CA belasting tarieven verwijderen"
 msgid "Delete California tax rates"
 msgstr "Californische belasting tarieven verwijderen"
 
-#: classes/class-wc-connect-taxjar-integration.php:219
+#: classes/class-wc-connect-taxjar-integration.php:217
 msgid "Enabling this option overrides any tax rates you have manually added."
 msgstr "Door deze optie aan te zetten overschrijf je de belastingtarieven die je handmatig hebt toegevoegd."
 
@@ -712,7 +712,7 @@ msgctxt "The WooCommerce Shipping brandname"
 msgid "WooCommerce Shipping"
 msgstr "WooCommerce Shipping"
 
-#: classes/class-wc-connect-taxjar-integration.php:424 i18n/strings.php:25
+#: classes/class-wc-connect-taxjar-integration.php:422 i18n/strings.php:25
 #: i18n/strings.php:409
 msgid "ZIP/Postal code"
 msgstr "Postcode"
@@ -1577,12 +1577,12 @@ msgstr "Er zijn geen locaties die aan deze parameters voldoen."
 msgid "2 character continent code."
 msgstr "2 karakter continent code."
 
-#: classes/class-wc-connect-taxjar-integration.php:434
+#: classes/class-wc-connect-taxjar-integration.php:432
 msgctxt "%s - ZIP/Postal code checkout field label"
 msgid "Invalid %s entered."
 msgstr "Ongeldige %s ingevoerd."
 
-#: classes/class-wc-connect-taxjar-integration.php:430
+#: classes/class-wc-connect-taxjar-integration.php:428
 msgctxt "%s - ZIP/Postal code checkout field label"
 msgid "%s does not match the selected state."
 msgstr "%s komt niet overeen met de geselecteerde status."
@@ -1767,15 +1767,15 @@ msgstr "Staat/Provincie"
 msgid "Country Code"
 msgstr "Landcode"
 
-#: classes/class-wc-connect-taxjar-integration.php:242
+#: classes/class-wc-connect-taxjar-integration.php:240
 msgid "Enable automated taxes"
 msgstr "Schakel automatische belastingtarieven in"
 
-#: classes/class-wc-connect-taxjar-integration.php:241
+#: classes/class-wc-connect-taxjar-integration.php:239
 msgid "Disable automated taxes"
 msgstr "Schakel automatische belastingtarieven uit"
 
-#: classes/class-wc-connect-taxjar-integration.php:233
+#: classes/class-wc-connect-taxjar-integration.php:231
 msgid "Automated taxes"
 msgstr "Automatische belastingen"
 

@@ -103,7 +103,7 @@ msgstr ""
 msgid "WC Services store notices"
 msgstr ""
 
-#: classes/class-wc-connect-taxjar-integration.php:124
+#: classes/class-wc-connect-taxjar-integration.php:122
 msgid "Tax"
 msgstr ""
 
@@ -327,18 +327,18 @@ msgstr ""
 #. translators: 1: full state and country name, 2: anchor opening with tax rate
 #. link, 3: anchor closer, 4: anchor opening with tax nexus link, 5: anchor
 #. closer
-#: classes/class-wc-connect-taxjar-integration.php:280
+#: classes/class-wc-connect-taxjar-integration.php:278
 msgid "Your tax rates are now automatically calculated for %1$s. Automated taxes uses your store address as your \"tax nexus\". If you want to charge tax for any other state, you can add a %2$stax rate%3$s for that state in addition to using automated taxes. %4$sLearn more about Tax Nexus here%5$s."
 msgstr ""
 
 #. translators: 1: full state and country name, 2: anchor opening with tax rate
 #. link, 3: anchor closer, 4: anchor opening with tax nexus link, 5: anchor
 #. closer
-#: classes/class-wc-connect-taxjar-integration.php:276
+#: classes/class-wc-connect-taxjar-integration.php:274
 msgid "Your tax rates and settings will be automatically configured for %1$s. Automated taxes uses your store address as your \"tax nexus\". If you want to charge tax for any other state, you can add a %2$stax rate%3$s for that state in addition to using automated taxes. %4$sLearn more about Tax Nexus here%5$s."
 msgstr ""
 
-#: classes/class-wc-connect-taxjar-integration.php:215
+#: classes/class-wc-connect-taxjar-integration.php:213
 msgid "Automated taxes take over from the WooCommerce core tax settings. This means that \"Display prices\" will be set to Excluding tax and tax will be Calculated using Customer shipping address. %1$sLearn more about Automated taxes here.%2$s"
 msgstr ""
 
@@ -358,7 +358,7 @@ msgstr ""
 msgid "Service Selection"
 msgstr ""
 
-#: classes/class-wc-connect-taxjar-integration.php:432
+#: classes/class-wc-connect-taxjar-integration.php:430
 msgctxt "%s - ZIP/Postal code checkout field label"
 msgid "%s is not formatted correctly."
 msgstr ""
@@ -375,11 +375,11 @@ msgstr ""
 msgid "Tax Rates"
 msgstr ""
 
-#: classes/class-wc-connect-taxjar-integration.php:220
+#: classes/class-wc-connect-taxjar-integration.php:218
 msgid "Your existing tax rates will be backed-up to a CSV that you can download %1$shere%2$s."
 msgstr ""
 
-#: classes/class-wc-connect-taxjar-integration.php:217
+#: classes/class-wc-connect-taxjar-integration.php:215
 msgid "Your previous tax rates were backed up and can be downloaded %1$shere%2$s."
 msgstr ""
 
@@ -439,7 +439,7 @@ msgstr "Borrar las tasas de impuestos de CA"
 msgid "Delete California tax rates"
 msgstr "Borrar las tasas de impuestos de California"
 
-#: classes/class-wc-connect-taxjar-integration.php:219
+#: classes/class-wc-connect-taxjar-integration.php:217
 msgid "Enabling this option overrides any tax rates you have manually added."
 msgstr "Activando esta opción, se anula cualquier tasa de impuestos que hayas añadido manualmente."
 
@@ -712,7 +712,7 @@ msgctxt "The WooCommerce Shipping brandname"
 msgid "WooCommerce Shipping"
 msgstr ""
 
-#: classes/class-wc-connect-taxjar-integration.php:424 i18n/strings.php:25
+#: classes/class-wc-connect-taxjar-integration.php:422 i18n/strings.php:25
 #: i18n/strings.php:409
 msgid "ZIP/Postal code"
 msgstr "Código postal"
@@ -1577,12 +1577,12 @@ msgstr "No hay ubicaciones que coincidan con estos parámetros."
 msgid "2 character continent code."
 msgstr "Código de 2 caracteres del continente."
 
-#: classes/class-wc-connect-taxjar-integration.php:434
+#: classes/class-wc-connect-taxjar-integration.php:432
 msgctxt "%s - ZIP/Postal code checkout field label"
 msgid "Invalid %s entered."
 msgstr "%s introducido no válido."
 
-#: classes/class-wc-connect-taxjar-integration.php:430
+#: classes/class-wc-connect-taxjar-integration.php:428
 msgctxt "%s - ZIP/Postal code checkout field label"
 msgid "%s does not match the selected state."
 msgstr "%s no coincide con la provincia seleccionada."
@@ -1767,15 +1767,15 @@ msgstr "Código de provincia"
 msgid "Country Code"
 msgstr "Código de país"
 
-#: classes/class-wc-connect-taxjar-integration.php:242
+#: classes/class-wc-connect-taxjar-integration.php:240
 msgid "Enable automated taxes"
 msgstr "Activar impuestos automáticos"
 
-#: classes/class-wc-connect-taxjar-integration.php:241
+#: classes/class-wc-connect-taxjar-integration.php:239
 msgid "Disable automated taxes"
 msgstr "Desactivar impuestos automáticos"
 
-#: classes/class-wc-connect-taxjar-integration.php:233
+#: classes/class-wc-connect-taxjar-integration.php:231
 msgid "Automated taxes"
 msgstr "Impuestos automáticos"
 
